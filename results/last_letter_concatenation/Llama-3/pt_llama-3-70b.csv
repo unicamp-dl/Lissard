@@ -1,0 +1,301 @@
+input,out,len,bins,pred,total-tokens,prompt-tokens,completion-tokens
+Daniel Camila Sandra Marcia Francisco Julia Mariana Luis Fernanda Maria Aline Bruno Patricia Carlos Fernanda Antonio Julia Lucas Fernanda Julia,l a a a o a a s a a e o a s a o a s a a,20,15~22,Output: l a a a a a a s a a a o a a a o a,211,192,19
+Ana Patricia Julia Patricia Aline Marcelo Sandra Carlos Daniel Luciana Antonia Aline Francisco Paulo Julia,a a a a e o a s l a a e o o a,15,15~22,Output: a a a a e o a s o a a a o,200,185,15
+Vanessa Marcelo Mariana Marcos Carlos Aline Joao Eduardo Luis Rafael Francisca Marcelo Pedro Leticia Jessica Sandra Julia,a o a s s e o o s l a o o a a a a,17,15~22,Output: a o a a s s a o o a a a a a,206,190,16
+Aline Luciana Jose Luiz Adriana Lucas Aline Jose Joao Vanessa Mariana Aline Marcelo Ana Bruna Aline Adriana Jose Camila Gabriel,e a e z a s e e o a a e o a a e a e a l,20,15~22,Output: e a e z a a s s a a a a a a a a a a,218,198,20
+Aline Rafael Julia Aline Francisco Francisca Jose Antonia Paulo Vanessa Marcos Luis Juliana Lucas Joao Juliana,e l a e o a e a o a s s a s o a,16,15~22,Output: e l a e o a a a o a o s s a o,205,188,17
+Francisco Lucas Daniel Ana Camila Ana Joao Vanessa Leticia Paulo Marcelo Antonia Lucas Marcos Camila Amanda,o s l a a a o a a o o a s s a a,16,15~22,Output: o s l a a a a a a o o a a,203,188,15
+Francisco Luciana Francisco Adriana Pedro Camila Julia Francisca Carlos Adriana Aline Aline Marcos Pedro Rafael Lucas Bruno Luis Daniel,o a o a o a a a s a e e s o l s o s l,19,15~22,Output: o a o a a o a a a a a o s l o s,209,191,18
+Paulo Marcos Lucas Eduardo Marcia Julia Eduardo Adriana Julia Fernanda Marcia Luiz Antonia Antonia Antonio Camila Patricia,o s s o a a o a a a a z a a o a a,17,15~22,Output: o s s o a a a a a a a a,204,190,14
+Adriana Gabriel Fernanda Fernanda Antonio Pedro Bruna Gabriel Marcos Juliana Rafael Maria Francisca Luciana Rafael Bruna Antonio,a l a a o o a l s a l a a a l a o,17,15~22,Output: a L a a o o o a a a a a a,205,190,15
+Ana Bruno Leticia Marcelo Francisco Pedro Francisca Rafael Patricia Bruno Adriana Francisco Leticia Luis Adriana Vanessa,a o a o o o a l a o a o a s a a,16,15~22,Output: a o a o o o o a a a a a,203,189,14
+Carlos Leticia Marcos Jose Marcos Ana Luiz Francisca Leticia Eduardo Antonio Julia Ana Adriana Pedro Antonio Rafael Antonia Fernanda Carlos,s a s e s a z a a o o a a a o o l a a s,20,15~22,Output: s a s s e a a a o a a a a a a o a,213,194,19
+Jose Luis Rafael Amanda Antonio Antonia Adriana Gabriel Aline Leticia Ana Carlos Luciana Leticia Jose Amanda Jose Maria Antonio,e s l a o a a l e a a s a a e a e a o,19,15~22,Output: e s l a o a a a a a a a a o a a,210,192,18
+Lucas Adriana Adriana Bruna Julia Luis Patricia Gabriel Marcos Joao Marcos Bruna Marcia Luiz Patricia Vanessa Paulo Camila Sandra Joao Patricia,s a a a a s a l s o s a a z a a o a a o a,21,15~22,Output: s a a a a a s a a s o o a a a a a,214,195,19
+Ana Vanessa Jose Bruno Patricia Aline Julia Rafael Carlos Antonio Rafael Julia Lucas Maria Camila Luciana Eduardo,a a e o a e a l s o l a s a a a o,17,15~22,Output: a a e o o a a a l o a a a o,201,185,16
+Adriana Leticia Pedro Marcos Antonia Bruno Carlos Jessica Luciana Marcelo Mariana Joao Francisca Luciana Joao Aline Marcelo Antonia Bruno Patricia,a a o s a o s a a o a o a a o e o a o a,20,15~22,Output: a a o s a a o s a a a o a a a a a a,219,199,20
+Marcia Marcelo Antonia Marcos Adriana Ana Antonia Francisca Paulo Antonio Eduardo Sandra Rafael Lucas Luciana Jessica,a o a s a a a a o o o a l s a a,16,15~22,Output: a o a a a a a a o o a a a a,204,188,16
+Mariana Eduardo Paulo Lucas Maria Julia Eduardo Julia Luiz Paulo Adriana Francisca Marcia Francisca Patricia Lucas Eduardo Marcia Joao,a o o s a a o a z o a a a a a s o a o,19,15~22,Output: a o o s a a a u a a a a a o a a a o,212,192,20
+Amanda Marcia Jessica Julia Eduardo Mariana Luciana Francisco Joao Marcos Lucas Paulo Gabriel Aline Carlos Antonia,a a a a o a a o o s s o l e s a,16,15~22,Output: a a a a o a a o o s s o l,202,187,15
+Luiz Marcelo Adriana Camila Amanda Gabriel Jose Lucas Marcos Mariana Bruna Lucas Jose Bruna Antonia Daniel,z o a a a l e s s a a s e a a l,16,15~22,Output: z o a a a a l s s s a l s a l,206,189,17
+Leticia Vanessa Juliana Paulo Paulo Eduardo Amanda Adriana Julia Luiz Paulo Luciana Sandra Marcelo Maria Francisca Juliana Antonio Mariana,a a a o o o a a a z o a a o a a a o a,19,15~22,Output: a a a o o o o a a a a a a a a a,212,194,18
+Marcelo Bruno Lucas Camila Eduardo Marcia Maria Julia Mariana Luiz Luciana Leticia Fernanda Julia Maria Marcia Amanda Jose Gabriel,o o s a o a a a a z a a a a a a a e l,19,15~22,Output: o o s a o a a a a a a a a a,210,194,16
+Antonio Vanessa Gabriel Amanda Luiz Rafael Sandra Vanessa Francisca Jessica Eduardo Lucas Luis Pedro Daniel,o a l a z l a a a a o s s o l,15,15~22,Output: o a l a a z l a a a a o d l,198,182,16
+Patricia Adriana Jose Luiz Camila Camila Bruna Bruno Pedro Jessica Adriana Ana Patricia Marcia Joao Paulo Leticia Leticia Marcos Fernanda,a a e z a a a o o a a a a a o o a a s a,20,15~22,Output: a a e z a a a a o a a a a a a a a,217,198,19
+Leticia Bruna Maria Marcos Lucas Marcos Julia Luis Paulo Luis Carlos Marcelo Lucas Bruno Ana Bruno Rafael Rafael Bruno Paulo,a a a s s s a s o s s o s o a o l l o o,20,15~22,Output: a a a s s s a l u o l o o u o o,207,189,18
+Antonio Jessica Camila Mariana Jose Adriana Leticia Maria Antonio Julia Fernanda Francisco Daniel Bruna Pedro Marcelo Marcia Aline Fernanda Gabriel,o a a a e a a a o a a o l a o o a e a l,20,15~22,Output: o a a a a e a a a a o a a a a a a o,216,196,20
+Leticia Marcia Luciana Paulo Daniel Paulo Francisca Francisco Lucas Pedro Carlos Daniel Bruno Lucas Pedro Amanda Camila Maria Camila Lucas,a a a o l o a o s o s l o s o a a a a s,20,15~22,Output: a a a o o o o o o o a a a a,208,192,16
+Julia Camila Adriana Vanessa Luciana Marcia Sandra Marcelo Maria Mariana Vanessa Pedro Antonia Lucas Lucas Antonio Juliana Antonio Vanessa,a a a a a a a o a a a o a s s o a o a,19,15~22,Output: a a a a a a a o a a a o a o a,209,192,17
+Luciana Bruno Amanda Luciana Camila Jessica Leticia Carlos Adriana Adriana Carlos Antonio Patricia Leticia Jessica Francisca Gabriel,a o a a a a a s a a s o a a a a l,17,15~22,Output: a o a a a a a a a a o a a a a,209,192,17
+Ana Aline Joao Marcos Pedro Camila Marcia Pedro Jose Patricia Juliana Eduardo Eduardo Gabriel Vanessa Joao Adriana Leticia Joao,a e o s o a a o e a a o o l a o a a o,19,15~22,Output: a e o s o a a a o e a a a a a a,212,194,18
+Adriana Luiz Adriana Marcia Marcelo Francisco Vanessa Jose Gabriel Pedro Ana Marcia Luis Julia Lucas Luciana,a z a a o o a e l o a a s a s a,16,15~22,Output: a z a a o o a a e o o a a a a,205,188,17
+Antonia Aline Marcia Sandra Maria Juliana Antonia Paulo Antonio Bruna Juliana Aline Ana Aline Francisco Lucas Marcia Bruno,a e a a a a a o o a a e a e o s a o,18,15~22,Output: a e a a a a a o o a a a a o,209,193,16
+Marcos Francisco Gabriel Bruno Mariana Francisco Ana Camila Carlos Camila Joao Amanda Marcelo Marcelo Aline Amanda Marcia Juliana,s o l o a o a a s a o a o o e a a a,18,15~22,Output: s o l o a a a a l a a a a a a a,210,192,18
+Bruna Fernanda Luiz Eduardo Lucas Rafael Sandra Bruna Francisca Carlos Patricia Jessica Antonio Marcos Luiz Marcia Fernanda Julia Bruno Julia Marcia,a a z o s l a a a s a a o s z a a a o a a,21,15~22,Output: a a z o o l a a a a a a a a a a a,214,195,19
+Julia Carlos Luis Sandra Daniel Julia Jessica Francisco Gabriel Adriana Antonio Adriana Aline Joao Daniel Eduardo Gabriel Luis Amanda Bruna Lucas,a s s a l a a o l a o a e o l o l s a a s,21,15~22,Output: a s s a a a a a o a a a a o a a a,210,191,19
+Gabriel Francisca Marcelo Carlos Gabriel Adriana Francisco Pedro Bruno Joao Paulo Marcelo Amanda Marcia Pedro Mariana Julia Francisca Fernanda Ana,l a o s l a o o o o o o a a o a a a a a,20,15~22,Output: L a o S S A O O U O O A A A A,211,194,17
+Luis Lucas Leticia Fernanda Julia Eduardo Rafael Francisco Daniel Jose Julia Camila Jessica Antonia Jose Marcos Bruno Daniel Eduardo Maria,s s a a a o l o l e a a a a e s o l o a,20,15~22,Output: s s a a a o o o l o l a a a a a,208,190,18
+Antonio Adriana Lucas Luciana Rafael Ana Fernanda Ana Jessica Maria Francisca Joao Lucas Carlos Vanessa Vanessa Francisca Sandra Fernanda,o a s a l a a a a a a o s s a a a a a,19,15~22,Output: o a s a a a a a a a a a a a a a,209,191,18
+Camila Fernanda Luiz Luciana Eduardo Vanessa Adriana Leticia Camila Juliana Bruno Patricia Leticia Gabriel Juliana Marcelo Amanda,a a z a o a a a a a o a a l a o a,17,15~22,Output: a a z a a o a a a a a a o a,211,195,16
+Adriana Daniel Marcos Daniel Marcos Marcelo Marcia Eduardo Bruna Gabriel Leticia Camila Eduardo Francisco Antonio Luiz Gabriel Rafael,a l s l s o a o a l a a o o o z l l,18,15~22,Output: a l s l s o a o a a a l o,206,191,15
+Bruna Bruno Mariana Sandra Bruna Pedro Julia Paulo Adriana Gabriel Juliana Camila Antonio Juliana Marcelo Leticia Leticia Daniel Amanda,a o a a a o a o a l a a o a o a a l a,19,15~22,Output: a o a a a o o a a a a o a a a a a,215,196,19
+Luis Camila Mariana Amanda Eduardo Luis Jose Francisco Francisco Mariana Francisca Marcos Pedro Daniel Francisco Jessica Patricia Jose Antonia Marcia,s a a a o s e o o a a s o l o a a e a a,20,15~22,Output: s a a a a o e e o o a a a o d o a a a a,213,191,22
+Luiz Eduardo Mariana Luis Maria Marcos Ana Pedro Patricia Joao Carlos Aline Mariana Jose Adriana Amanda Amanda Daniel,z o a s a s a o a o s e a e a a a l,18,15~22,Output: z o a s a a s a o a a a a a l,206,189,17
+Bruna Mariana Francisco Mariana Mariana Pedro Luis Marcia Jose Gabriel Patricia Antonia Leticia Luciana Jessica Marcia Antonio Fernanda Jessica,a a o a a o s a e l a a a a a a o a a,19,15~22,Output: a a o a a a o s a a a a a a a a,213,195,18
+Rafael Luiz Jessica Rafael Mariana Jose Bruno Jessica Carlos Patricia Amanda Mariana Bruno Ana Bruna Bruno Amanda,l z a l a e o a s a a a o a a o a,17,15~22,Output: l z a a l a e o s a a a a a,202,186,16
+Lucas Luiz Marcelo Francisco Camila Jose Patricia Francisca Antonio Julia Bruna Marcos Jessica Lucas Antonio Camila Julia Luis Jose Bruno Lucas,s z o o a e a a o a a s a s o a a s e o s,21,15~22,Output: s z o o a e a a a a a a o a a a,210,192,18
+Joao Ana Juliana Joao Mariana Jose Luis Aline Pedro Bruno Maria Camila Adriana Joao Jose Pedro Aline Aline,o a a o a e s e o o a a a o e o e e,18,15~22,Output: o a a o o a e s o a a a a a,209,193,16
+Leticia Patricia Jose Bruna Bruno Marcia Ana Pedro Carlos Rafael Adriana Juliana Camila Amanda Julia Vanessa Rafael,a a e a o a a o s l a a a a a a l,17,15~22,Output: a a e o a a a a o a a a a a,205,189,16
+Daniel Bruna Bruno Sandra Francisco Maria Patricia Luiz Rafael Maria Francisca Daniel Pedro Pedro Jose Camila Maria Leticia,l a o a o a a z l a a l o o e a a a,18,15~22,Output: l a o a a a a a a a o e o a a,206,189,17
+Marcelo Antonia Luiz Rafael Mariana Marcelo Patricia Rafael Carlos Bruna Patricia Bruna Leticia Marcelo Pedro Francisco Luiz,o a z l a o a l s a a a a o o o z,17,15~22,Output: o a z l o a a a a a a a o o,209,193,16
+Francisca Luciana Marcos Patricia Antonia Pedro Francisco Luis Joao Luciana Amanda Jose Fernanda Francisco Carlos Bruna Vanessa Paulo Ana Joao Fernanda,a a s a a o o s o a a e a o s a a o a o a,21,15~22,Output: a a s a a a o o s a a a o a a a a o a,216,195,21
+Leticia Luciana Antonia Bruno Sandra Fernanda Adriana Luiz Joao Joao Ana Eduardo Carlos Pedro Fernanda Juliana Francisco Maria Luiz Antonio,a a a o a a a z o o a o s o a a o a z o,20,15~22,Output: a a a o a a a a o o a o a o a o a,216,197,19
+Julia Julia Carlos Leticia Lucas Antonia Camila Adriana Leticia Adriana Camila Pedro Sandra Aline Pedro Bruno Leticia,a a s a s a a a a a a o a e o o a,17,15~22,Output: a a s a s a a a a a a a o,209,194,15
+Amanda Mariana Gabriel Mariana Rafael Sandra Jose Eduardo Amanda Mariana Bruno Marcia Ana Amanda Jessica Francisco Sandra,a a l a l a e o a a o a a a a o a,17,15~22,Output: a a l a a a a o a a a a a,201,186,15
+Rafael Francisco Maria Adriana Daniel Leticia Adriana Adriana Jose Patricia Francisca Aline Luiz Bruno Luis Bruno Marcos Francisca,l o a a l a a a e a a e z o s o s a,18,15~22,Output: l o a a a a a a a e a a o o o s a,211,192,19
+Patricia Marcelo Antonia Jessica Vanessa Francisco Carlos Bruno Pedro Jose Fernanda Carlos Bruna Juliana Vanessa Julia,a o a a a o s o o e a s a a a a,16,15~22,Output: a o a a a a o s o e a a a a,202,186,16
+Antonio Jessica Marcos Jessica Luis Camila Marcos Joao Sandra Gabriel Maria Francisco Marcos Eduardo Vanessa Gabriel Luis Francisca Daniel Luciana,o a s a s a s o a l a o s o a l s a l a,20,15~22,Output: o a s s a a a o a a o a a a l a,207,189,18
+Marcelo Aline Luiz Amanda Marcos Carlos Patricia Marcos Marcelo Luiz Marcos Fernanda Marcelo Joao Juliana Marcelo Antonia Fernanda Bruna,o e z a s s a s o z s a o o a o a a a,19,15~22,Output: o e z a a s s a o a o a a a a a,215,197,18
+Daniel Marcia Adriana Julia Jose Marcos Francisca Francisca Antonia Luiz Francisco Antonia Jose Fernanda Lucas Adriana Luis Adriana Vanessa,l a a a e s a a a z o a e a s a s a a,19,15~22,Output: l a a a a e o a a a a a a a a,211,194,17
+Marcos Luiz Fernanda Gabriel Antonia Julia Rafael Francisco Rafael Amanda Antonia Julia Lucas Pedro Luiz,s z a l a a l o l a a a s o z,15,15~22,Output: s z a a a a l o a a a s s,200,185,15
+Adriana Aline Julia Marcelo Antonio Julia Luciana Pedro Amanda Camila Amanda Fernanda Marcos Paulo Juliana,a e a o o a a o a a a a s o a,15,15~22,Output: a e a o o a a a a a a a o a,203,187,16
+Marcos Antonio Marcelo Jose Bruna Paulo Patricia Adriana Francisca Juliana Bruna Marcia Fernanda Carlos Bruno Leticia,s o o e a o a a a a a a a s o a,16,15~22,Output: s o o e a a a a a a a a a,206,191,15
+Gabriel Jose Amanda Francisco Luis Maria Francisca Adriana Adriana Antonio Luis Maria Marcos Maria Adriana Juliana,l e a o s a a a a o s a s a a a,16,15~22,Output: L e a o o a a a a a a a a N,202,186,16
+Pedro Julia Daniel Adriana Francisco Maria Antonia Maria Mariana Rafael Patricia Carlos Antonio Marcos Luis Mariana Jose Luiz Luiz,o a l a o a a a a l a s o s s a e z z,19,15~22,Output: o a l a a o a a a a a o s o s z,208,190,18
+Antonia Luciana Amanda Camila Leticia Amanda Bruna Bruna Luis Rafael Camila Gabriel Francisco Amanda Luciana Carlos Marcos Leticia Jose Gabriel,a a a a a a a a s l a l o a a s s a e l,20,15~22,Output: a a a a a a a s a a a l o a a a o a,216,196,20
+Amanda Patricia Joao Bruna Marcos Rafael Antonia Fernanda Luciana Luciana Mariana Sandra Lucas Leticia Julia Marcia Eduardo,a a o a s l a a a a a a s a a a o,17,15~22,Output: a a o a a s a a a a a a a o a,209,192,17
+Luis Leticia Bruno Luciana Daniel Carlos Marcia Jessica Bruna Camila Luciana Daniel Luis Camila Carlos Francisca,s a o a l s a a a a a l s a s a,16,15~22,Output: s a o a a l s a a a l a a a a,207,190,17
+Rafael Daniel Daniel Luciana Julia Mariana Rafael Bruna Marcelo Francisca Juliana Antonia Luiz Pedro Joao Antonia Marcos Eduardo,l l l a a a l a o a a a z o o a s o,18,15~22,Output: l l l a a a a a a o o a o a o,210,193,17
+Juliana Lucas Jessica Juliana Sandra Antonio Antonia Fernanda Luciana Marcia Marcia Antonio Juliana Gabriel Leticia Vanessa,a s a a a o a a a a a o a l a a,16,15~22,Output: a s a a a a a a a a a a,205,191,14
+Vanessa Marcia Eduardo Luciana Francisco Antonia Maria Marcelo Bruno Joao Leticia Maria Julia Eduardo Luiz Patricia Francisca Luciana,a a o a o a a o o o a a a o z a a a,18,15~22,Output: a a o a a o a a a o a a a a a,210,193,17
+Bruno Amanda Julia Jessica Joao Francisco Daniel Lucas Julia Sandra Daniel Lucas Marcelo Sandra Leticia Rafael,o a a a o o l s a a l s o a a l,16,15~22,Output: o a a a a o o l s a l o o a a,202,185,17
+Juliana Carlos Eduardo Juliana Marcos Francisca Vanessa Leticia Julia Lucas Jessica Julia Sandra Leticia Jose Sandra,a s o a s a a a a s a a a a e a,16,15~22,Output: a s o o a a a a a a a a a,203,188,15
+Adriana Vanessa Luciana Francisca Marcos Aline Rafael Luciana Jose Aline Julia Camila Camila Luiz Vanessa Juliana Gabriel,a a a a s e l a e e a a a z a a l,17,15~22,Output: a a a a a e a a e a a a a a a l,210,192,18
+Leticia Ana Paulo Eduardo Luis Amanda Patricia Marcelo Lucas Mariana Vanessa Antonio Paulo Eduardo Daniel Lucas,a a o o s a a o s a a o o o l s,16,15~22,Output: a a o o o a a a o a o o o,200,185,15
+Aline Daniel Fernanda Ana Jose Eduardo Luis Carlos Marcia Ana Francisco Antonio Carlos Juliana Leticia Fernanda Leticia Luis Francisca Gabriel Vanessa,e l a a e o s s a a o o s a a a a s a l a,21,15~22,Output: e l a a e o u s a o a a a a a a,214,196,18
+Joao Fernanda Aline Leticia Maria Aline Francisca Antonia Luiz Fernanda Julia Amanda Pedro Marcelo Adriana Amanda,o a e a a e a a z a a a o o a a,16,15~22,Output: o a a a a a a a a a o a a a,209,193,16
+Eduardo Luiz Jessica Vanessa Fernanda Bruno,o z a a a o,6,1~8,Output: o z a a a o,181,173,8
+Pedro Eduardo Joao Bruno Juliana,o o o o a,5,1~8,Output: o o a o a,179,172,7
+Luciana Marcos Adriana Marcelo Rafael Julia Eduardo,a s a o l a o,7,1~8,Output: a s a o o a o,184,175,9
+Marcelo Julia Vanessa Luiz,o a a z,4,1~8,Output: o a a z,177,171,6
+Paulo Fernanda,o a,2,1~8,Output: o a,172,168,4
+Leticia Patricia Carlos Fernanda Eduardo Luiz,a a s a o z,6,1~8,Output: a a s a a z,183,175,8
+Amanda Antonia Daniel Luis Camila Leticia Sandra,a a l s a a a,7,1~8,Output: a a l s a a a,185,176,9
+Julia Rafael,a l,2,1~8,Output: a l,171,167,4
+Sandra Antonia Carlos Leticia,a a s a,4,1~8,Output: a a s a a,179,172,7
+Ana Adriana Luiz Francisca Leticia,a a z a a,5,1~8,Output: a a z a a,182,175,7
+Luciana Jessica Camila,a a a,3,1~8,Output: a a a,175,170,5
+Bruna Carlos,a s,2,1~8,Output: a s,172,168,4
+Pedro Aline,o e,2,1~8,Output: o e,172,168,4
+Francisca Adriana Carlos Amanda,a a s a,4,1~8,Output: a a s a,177,171,6
+Antonia Marcelo Pedro Maria,a o o a,4,1~8,Output: a o o a,177,171,6
+Sandra Julia Marcia Adriana Amanda,a a a a a,5,1~8,Output: a a a a a,179,172,7
+Antonia Marcos Eduardo,a s o,3,1~8,Output: a s o,174,169,5
+Luis Marcia Pedro Marcelo Fernanda Maria,s a o o a a,6,1~8,Output: s a o o a a,182,174,8
+Fernanda Adriana,a a,2,1~8,Output: a a,173,169,4
+Rafael Luiz Jessica Marcelo Vanessa Antonia,l z a o a a,6,1~8,Output: l z a o o a,182,174,8
+Julia Adriana Julia Marcelo Ana,a a a o a,5,1~8,Output: a a a o a,179,172,7
+Jessica Pedro Marcelo Leticia,a o o a,4,1~8,Output: a o o a,178,172,6
+Marcos Mariana,s a,2,1~8,Output: s a,172,168,4
+Patricia Antonia Francisco Camila Mariana Aline Luciana,a a o a a e a,7,1~8,Output: a a o a a a a,186,177,9
+Bruno Sandra Joao,o a o,3,1~8,Output: o a o,174,169,5
+Gabriel Paulo Gabriel Julia Patricia Sandra,l o l a a a,6,1~8,Output: L O L A A A,179,171,8
+Marcos Julia Fernanda Patricia Daniel Bruna,s a a a l a,6,1~8,Output: s a a a l a,181,173,8
+Bruna Marcelo Marcia Luiz Daniel Ana,a o a z l a,6,1~8,Output: a o a z l l a,184,175,9
+Luiz Daniel Aline Gabriel Vanessa Aline,z l e l a e,6,1~8,Output: z l e l a a e,183,174,9
+Camila Lucas Antonio,a s o,3,1~8,Output: a s o,174,169,5
+Luis Pedro Gabriel,s o l,3,1~8,Output: s o l,173,168,5
+Lucas Gabriel Ana Juliana Bruna,s l a a a,5,1~8,Output: s l a a a,179,172,7
+Joao Carlos,o s,2,1~8,Output: o s,172,168,4
+Jose Jessica Luciana,e a a,3,1~8,Output: e a a,174,169,5
+Bruno Rafael Maria Luis,o l a s,4,1~8,Output: o l a s,175,169,6
+Francisco Gabriel Paulo Julia Julia,o l o a a,5,1~8,Output: o l o a a a,178,170,8
+Juliana Amanda Francisca,a a a,3,1~8,Output: a a a,175,170,5
+Francisco Mariana Antonio Rafael Antonia Paulo Sandra,o a o l a o a,7,1~8,Output: o a o l o a o a,184,174,10
+Paulo Julia Maria Luis Maria Julia Juliana,o a a s a a a,7,1~8,Output: o a a s a a a,182,173,9
+Sandra Luciana Jose Daniel Ana Julia,a a e l a a,6,1~8,Output: a a e l a a,180,172,8
+Ana Pedro Carlos Gabriel,a o s l,4,1~8,Output: a o s l,175,169,6
+Luiz Adriana Camila Camila Francisco,z a a a o,5,1~8,Output: z a a a o,181,174,7
+Lucas Patricia Ana Juliana Camila Camila,s a a a a a,6,1~8,Output: s a a a a a,182,174,8
+Fernanda Joao Daniel Lucas Jessica,a o l s a,5,1~8,Output: a o l s a,179,172,7
+Maria Fernanda Camila Marcos Francisca,a a a s a,5,1~8,Output: a a a s a,180,173,7
+Patricia Vanessa Eduardo Bruna Amanda Carlos,a a o a a s,6,1~8,Output: a a o a a s,180,172,8
+Luiz Marcia Maria Sandra Ana Mariana,z a a a a a,6,1~8,Output: z a a a a a,182,174,8
+Daniel Camila,l a,2,1~8,Output: l a,172,168,4
+Rafael Jose Vanessa,l e a,3,1~8,Output: l e a,173,168,5
+Paulo Jose Ana Leticia,o e a a,4,1~8,Output: o e a a,177,171,6
+Camila Eduardo,a o,2,1~8,Output: a o,172,168,4
+Antonio Daniel Pedro Amanda Eduardo Jessica,o l o a o a,6,1~8,Output: o l o a o a,179,171,8
+Bruno Antonio Patricia,o o a,3,1~8,Output: o o a,173,168,5
+Antonia Daniel Francisca Amanda Marcos Patricia Camila,a l a a s a a,7,1~8,Output: a l a a a a a,184,175,9
+Bruna Daniel Vanessa Eduardo,a l a o,4,1~8,Output: a l a o,176,170,6
+Antonio Mariana Luiz Ana Joao Marcelo,o a z a o o,6,1~8,Output: o a z a o o,183,175,8
+Jessica Juliana Patricia Fernanda,a a a a,4,1~8,Output: a a a a,177,171,6
+Pedro Marcelo Patricia Pedro,o o a o,4,1~8,Output: o o a o,176,170,6
+Maria Juliana Jose Patricia Julia Luciana,a a e a a a,6,1~8,Output: a a e a a a,181,173,8
+Luis Marcia Luis Francisco Luiz,s a s o z,5,1~8,Output: s a s o z,179,172,7
+Joao Jessica Patricia Marcos Marcos Patricia Julia,o a a s s a a,7,1~8,Output: o a a s s a a,182,173,9
+Carlos Mariana Francisco Marcia Lucas,s a o a s,5,1~8,Output: s a o a s,179,172,7
+Lucas Lucas Eduardo,s s o,3,1~8,Output: s s o,173,168,5
+Mariana Mariana Paulo Francisca,a a o a,4,1~8,Output: a a o a,178,172,6
+Bruno Fernanda Juliana Fernanda Marcia Camila,o a a a a a,6,1~8,Output: o a a a a a,184,176,8
+Francisco Adriana,o a,2,1~8,Output: o a,172,168,4
+Julia Luciana Adriana,a a a,3,1~8,Output: a a a,175,170,5
+Aline Maria Adriana,e a a,3,1~8,Output: e a a,175,170,5
+Marcelo Adriana Daniel Maria Antonio,o a l a o,5,1~8,Output: o a l a a o,180,172,8
+Maria Camila Maria Ana,a a a a,4,1~8,Output: a a a a,176,170,6
+Aline Fernanda,e a,2,1~8,Output: e a,173,169,4
+Fernanda Fernanda Luiz Carlos Amanda,a a z s a,5,1~8,Output: a a z s o a,181,173,8
+Luiz Joao Pedro Gabriel Aline Marcia,z o o l e a,6,1~8,Output: z o o l e a,183,175,8
+Patricia Luiz Patricia,a z a,3,1~8,Output: a z a,174,169,5
+Mariana Luiz Luis Paulo,a z s o,4,1~8,Output: a z s o,177,171,6
+Lucas Amanda Paulo Gabriel Patricia Bruna Camila Eduardo Julia Rafael Adriana Jessica Juliana Ana Carlos Julia Amanda Luiz Carlos Maria Leticia Jessica Amanda,s a o l a a a o a l a a a a s a a z s a a a a,23,22~30,Output: s a o o l a a a a a a a a a a a a,214,195,19
+Francisco Jessica Daniel Amanda Francisca Carlos Daniel Paulo Vanessa Lucas Francisca Vanessa Amanda Patricia Antonia Bruna Leticia Carlos Luis Antonia Aline Rafael Bruna Carlos,o a l a a s l o a s a a a a a a a s s a e l a s,24,22~30,Output: o a l a a a s o l o a a a a a a a l a a a,221,198,23
+Patricia Jose Aline Pedro Francisca Maria Julia Francisca Jessica Francisca Rafael Antonia Adriana Sandra Carlos Leticia Carlos Sandra Antonia Luciana Bruna Amanda Bruna,a e e o a a a a a a l a a a s a s a a a a a a,23,22~30,Output: a e e o a a a a a a a a a a a a a a,220,200,20
+Lucas Bruna Daniel Antonia Bruno Gabriel Aline Adriana Antonio Luiz Ana Francisca Gabriel Bruno Aline Sandra Fernanda Francisca Fernanda Marcia Jose Aline Adriana Rafael Julia Aline,s a l a o l e a o z a a l o e a a a a a e e a l a e,26,22~30,Output: s a l a a o l o a a a a a a a a a a a a a a a a,231,205,26
+Bruna Bruno Marcia Camila Paulo Marcia Eduardo Rafael Mariana Julia Antonia Lucas Aline Jose Francisca Lucas Maria Luis Rafael Marcelo Francisca Antonio,a o a a o a o l a a a s e e a s a s l o a o,22,22~30,Output: a o a a a o o o a a a a a o a o a o a,218,197,21
+Julia Mariana Paulo Maria Maria Marcos Sandra Joao Gabriel Marcos Amanda Luciana Luiz Marcelo Aline Carlos Juliana Vanessa Gabriel Francisco Vanessa Ana Rafael Patricia Rafael Francisco Fernanda Julia Jessica,a a o a a s a o l s a a z o e s a a l o a a l a l o a a a,29,22~30,Output: a a o a a a a a o a a a a a a a a a a a a a a a a a,230,202,28
+Luiz Sandra Luciana Lucas Joao Fernanda Amanda Antonio Ana Francisco Juliana Amanda Rafael Gabriel Ana Julia Leticia Bruna Antonio Camila Marcelo Daniel,z a a s o a a o a o a a l l a a a a o a o l,22,22~30,Output: z a a s o a a a o a a a a a a a o a a,218,197,21
+Vanessa Francisca Bruna Sandra Eduardo Eduardo Mariana Marcia Vanessa Ana Julia Ana Marcelo Daniel Julia Julia Amanda Bruna Ana Maria Bruna Juliana Francisco Eduardo Rafael,a a a a o o a a a a a a o l a a a a a a a a o o l,25,22~30,Output: a a a a a o o a a a a a a a a a o a a a a a,222,198,24
+Ana Luis Francisco Maria Ana Paulo Antonia Fernanda Pedro Luis Paulo Marcelo Rafael Julia Jose Camila Luiz Amanda Antonio Juliana Lucas Juliana Jose Eduardo Daniel Leticia,a s o a a o a a o s o o l a e a z a o a s a e o l a,26,22~30,Output: a s o a a a o a a a o l o a a a a a a o a a a a a,227,200,27
+Antonio Mariana Aline Maria Jessica Carlos Fernanda Joao Bruno Francisca Fernanda Adriana Antonio Francisco Fernanda Rafael Luciana Antonio Maria Sandra Paulo Francisca Leticia Joao Sandra Paulo Bruno,o a e a a s a o o a a a o o a l a o a a o a a o a o o,27,22~30,Output: o a a a a a s a o a a a a a a o a a a a o a a a,231,205,26
+Juliana Juliana Rafael Sandra Bruna Patricia Marcia Marcos Daniel Patricia Daniel Aline Jessica Camila Jessica Daniel Luciana Sandra Francisco Francisca Joao Marcelo Patricia Amanda Antonia Sandra Luiz Fernanda Rafael,a a l a a a a s l a l e a a a l a a o a o o a a a a z a l,29,22~30,Output: a a l a a a a a a l a a a a a a a a o a a a a a a,234,207,27
+Adriana Marcos Antonia Fernanda Aline Leticia Francisco Maria Leticia Juliana Adriana Ana Antonia Antonio Marcia Marcelo Antonio Rafael Bruno Francisca Marcelo Joao Julia Paulo,a s a a e a o a a a a a a o a o o l o a o o a o,24,22~30,Output: a s a a a a a a a a a o a a a o a a a o a o a,230,205,25
+Rafael Bruna Marcelo Luiz Luiz Jose Mariana Bruno Julia Sandra Pedro Marcia Antonio Bruno Antonia Joao Luciana Amanda Maria Vanessa Marcia Amanda Francisca Antonia Mariana,l a o z z e a o a a o a o o a o a a a a a a a a a,25,22~30,Output: l a o o z z e o o a a a a a a a a a a a,225,203,22
+Adriana Julia Eduardo Aline Camila Bruno Amanda Lucas Francisca Bruno Antonia Carlos Adriana Gabriel Antonio Maria Antonio Antonio Lucas Eduardo Luciana Vanessa,a a o e a o a s a o a s a l o a o o s o a a,22,22~30,Output: a a o a a a o a a a a o a o a a a a,214,194,20
+Luciana Paulo Amanda Luis Luciana Rafael Lucas Pedro Leticia Mariana Jose Bruno Adriana Adriana Luis Aline Paulo Paulo Patricia Mariana Vanessa Antonio Camila Eduardo Juliana Aline Daniel,a o a s a l s o a a e o a a s e o o a a a o a o a e l,27,22~30,Output: a o a a a a s l o o a a a a a a a a a a a a a a a a,232,204,28
+Marcelo Leticia Jessica Joao Fernanda Antonio Paulo Jose Maria Leticia Rafael Julia Jessica Bruna Mariana Luciana Aline Mariana Luciana Marcos Bruno Mariana Francisca Aline,o a a o a o o e a a l a a a a a e a a s o a a e,24,22~30,Output: o a a a o a o o a a a a a a a a a a a a,227,205,22
+Bruna Amanda Mariana Vanessa Fernanda Julia Joao Marcia Marcia Luiz Antonio Rafael Daniel Maria Ana Marcia Antonia Luiz Antonia Bruno Leticia Marcia,a a a a a a o a a z o l l a a a a z a o a a,22,22~30,Output: a a a a a a o o a a a a a a a a a a,221,201,20
+Camila Francisco Camila Luciana Antonio Fernanda Marcos Camila Fernanda Francisca Camila Joao Juliana Antonia Gabriel Camila Gabriel Antonio Gabriel Eduardo Carlos Francisca Camila Camila Fernanda Daniel Joao Mariana Leticia,a o a a o a s a a a a o a a l a l o l o s a a a a l o a a,29,22~30,Output: a o a a a a a a a a a a a a a a a a a a a a a a a a,242,214,28
+Marcos Luiz Daniel Julia Francisca Mariana Gabriel Mariana Aline Luis Antonia Camila Ana Gabriel Luiz Leticia Gabriel Amanda Luiz Juliana Rafael Antonia Marcelo Marcos,s z l a a a l a e s a a a l z a l a z a l a o s,24,22~30,Output: s z l a a a a a a a l a a l a a a a l a a a,227,203,24
+Sandra Jose Luis Julia Aline Luis Fernanda Maria Lucas Fernanda Julia Paulo Mariana Marcos Joao Camila Julia Leticia Patricia Camila Antonia Maria Lucas Marcelo Pedro Antonio,a e s a e s a a s a a o a s o a a a a a a a s o o o,26,22~30,Output: a e s a a a a a a s a a a a o a a a a o a,225,202,23
+Paulo Marcia Francisco Gabriel Lucas Julia Amanda Luiz Ana Luciana Luiz Julia Aline Francisca Gabriel Maria Rafael Fernanda Mariana Julia Eduardo Antonio Juliana,o a o l s a a z a a z a e a l a l a a a o o a,23,22~30,Output: o a o o s a a a a a a a a a a a a o a a a,220,197,23
+Vanessa Jessica Luis Luciana Bruna Patricia Patricia Gabriel Vanessa Jose Adriana Ana Adriana Eduardo Jose Juliana Francisco Julia Eduardo Ana Antonio Patricia Juliana Adriana,a a s a a a a l a e a a a o e a o a o a o a a a,24,22~30,Output: a a s a a a a a a a a a a a a a a a a a,218,196,22
+Mariana Marcelo Fernanda Luiz Francisca Mariana Julia Amanda Vanessa Bruna Camila Antonio Amanda Leticia Antonia Marcos Gabriel Fernanda Francisca Mariana Marcos Luiz Joao Joao Maria Leticia Sandra Fernanda,a o a z a a a a a a a o a a a s l a a a s z o o a a a a,28,22~30,Output: a o a a z a a a a a a a a a a a a a a a a a a a a a,241,213,28
+Vanessa Fernanda Ana Aline Mariana Juliana Leticia Francisca Antonio Antonia Marcia Marcelo Marcos Lucas Daniel Fernanda Patricia Antonia Juliana Pedro Joao Camila Antonia Jose Bruno Carlos,a a a e a a a a o a a o s s l a a a a o o a a e o s,26,22~30,Output: a a a e a a a a a a o a a a a o a o a a a a,231,207,24
+Gabriel Luciana Vanessa Mariana Daniel Bruno Amanda Jessica Fernanda Amanda Antonio Francisca Marcia Leticia Luciana Pedro Aline Aline Antonia Juliana Jessica Rafael Lucas Julia Lucas,l a a a l o a a a a o a a a a o e e a a a l s a s,25,22~30,Output: L a a a a L o o a a a a a a a a a a a a a a L a a a a,231,202,29
+Carlos Juliana Maria Bruna Pedro Julia Jessica Lucas Maria Bruno Antonia Aline Daniel Ana Rafael Paulo Antonio Joao Patricia Gabriel Fernanda Marcelo Maria Luis Julia Vanessa Paulo,s a a a o a a s a o a e l a l o o o a l a o a s a a o,27,22~30,Output: s a a a a o d a a s a a a a o o a a a a o a,223,199,24
+Maria Marcelo Fernanda Amanda Bruna Eduardo Marcos Jose Marcia Joao Eduardo Eduardo Eduardo Luis Mariana Camila Camila Lucas Marcelo Marcelo Patricia Antonio Ana Rafael Adriana Gabriel,a o a a a o s e a o o o o s a a a s o o a o a l a l,26,22~30,Output: a o a a a a o e o e e o a a a o o o a a a a a,227,202,25
+Patricia Marcia Amanda Daniel Vanessa Sandra Sandra Amanda Pedro Francisca Francisco Marcelo Ana Francisco Pedro Gabriel Marcia Sandra Adriana Marcelo Marcia Joao Marcelo Bruna Luiz Fernanda Bruna,a a a l a a a a o a o o a o o l a a a o a o o a z a a,27,22~30,Output: a a a l a a a a o a a a a a a a o a a a a a a a,231,205,26
+Maria Juliana Joao Jessica Marcos Rafael Sandra Juliana Pedro Luis Vanessa Jessica Julia Antonia Marcia Mariana Sandra Aline Fernanda Sandra Eduardo Francisco Luis Jessica Antonio,a a o a s l a a o s a a a a a a a e a a o o s a o,25,22~30,Output: a a o a a a a a a a a a a a a o a a a a,220,198,22
+Jessica Lucas Juliana Joao Marcia Antonio Francisco Luciana Rafael Patricia Ana Amanda Carlos Camila Sandra Francisco Maria Bruno Amanda Marcelo Daniel Antonia Vanessa,a s a o a o o a l a a a s a a o a o a o l a a,23,22~30,Output: a s a a o o a a a a a a a a a o a a a,216,195,21
+Luis Aline Maria Carlos Vanessa Jessica Adriana Francisca Paulo Joao Marcelo Pedro Fernanda Jessica Amanda Bruno Fernanda Patricia Patricia Camila Joao Luciana Jose Fernanda Lucas,s e a s a a a a o o o o a a a o a a a a o a e a s,25,22~30,Output: s e a s s a a a a o o a a a a a a a a a a a a,226,201,25
+Adriana Marcos Luis Amanda Luiz Francisca Francisco Francisco Patricia Rafael Amanda Daniel Luiz Aline Pedro Luis Fernanda Leticia Adriana Leticia Fernanda Vanessa Patricia Ana Vanessa Fernanda Vanessa Marcos Vanessa,a s s a z a o o a l a l z e o s a a a a a a a a a a a s a,29,22~30,Output: a s s a z u a a o a a a a a a a a a a a a a a a a a a,236,207,29
+Fernanda Antonia Luis Amanda Fernanda Ana Sandra Luciana Jose Francisco Amanda Fernanda Marcos Antonio Luis Aline Luis Julia Leticia Juliana Leticia Leticia Paulo Marcos Maria Joao,a a s a a a a a e o a a s o s e s a a a a a o s a o,26,22~30,Output: a a s a a a a a a e o a a a a a a a o o a,228,205,23
+Fernanda Francisca Sandra Juliana Pedro Paulo Aline Sandra Francisco Amanda Carlos Rafael Amanda Ana Bruno Aline Adriana Bruno Joao Marcos Rafael Luiz Jose Luis,a a a a o o e a o a s l a a o e a o o s l z e s,24,22~30,Output: a a a a a o o a a a o a a a o o a o a o a o,221,197,24
+Daniel Leticia Gabriel Paulo Aline Antonio Bruno Ana Aline Aline Rafael Vanessa Camila Francisca Carlos Jessica Patricia Sandra Gabriel Jessica Antonio Leticia Carlos Ana Joao Vanessa Rafael Francisco,l a l o e o o a e e l a a a s a a a l a o a s a o a l o,28,22~30,Output: l a l o o a o a a a a a a a a a a a a a a a a a a a a a a a a,236,203,33
+Mariana Maria Francisco Antonio Aline Ana Patricia Amanda Antonio Eduardo Fernanda Leticia Joao Sandra Pedro Francisca Rafael Jessica Marcia Leticia Jessica Bruna Paulo Bruna Jose Carlos Francisco Francisca,a a o o e a a a o o a a o a o a l a a a a a o a e s o a,28,22~30,Output: a a o o a a a a a o a a a a a a o a a a a o a o,232,206,26
+Amanda Amanda Joao Pedro Francisco Bruna Mariana Mariana Bruna Antonia Paulo Daniel Lucas Camila Paulo Marcia Luciana Carlos Luciana Sandra Marcelo Paulo Rafael Mariana Jose,a a o o o a a a a a o l s a o a a s a a o o l a e,25,22~30,Output: a a o o o a a a a a o l a o a a a o a o a a a o,228,202,26
+Eduardo Juliana Jessica Gabriel Lucas Luiz Joao Joao Ana Lucas Paulo Lucas Leticia Camila Francisco Luiz Luciana Aline Amanda Bruna Pedro Carlos Vanessa Vanessa Luciana Francisca Fernanda,o a a l s z o o a s o s a a o z a e a a o s a a a a a,27,22~30,Output: o a a a l z o o o a a a a a a a a a a a a a,230,206,24
+Jose Luiz Jose Luciana Marcelo Camila Francisco Marcia Marcos Julia Bruna Joao Paulo Vanessa Antonio Paulo Pedro Mariana Joao Patricia Ana Pedro Patricia,e z e a o a o a s a a o o a o o o a o a a o a,23,22~30,Output: e z e a o a a a a a a o o a a a a a a,218,197,21
+Luciana Camila Jessica Luiz Sandra Sandra Sandra Marcia Bruno Bruno Julia Fernanda Luciana Leticia Luciana Paulo Joao Julia Jessica Patricia Luciana Luis Antonia Sandra Jessica Fernanda Juliana Adriana,a a a z a a a a o o a a a a a o o a a a a s a a a a a a,28,22~30,Output: a a a z a a a a a a a a a a a a a a a a a a a a a a,236,208,28
+Rafael Paulo Marcia Patricia Luis Rafael Fernanda Bruna Amanda Marcelo Aline Marcia Gabriel Antonio Leticia Marcos Julia Leticia Antonia Sandra Paulo Julia Vanessa Lucas Aline,l o a a s l a a a o e a l o a s a a a a o a a s e,25,22~30,Output: l o a a a l a a a o a a a a a a a a a,223,202,21
+Adriana Vanessa Julia Pedro Bruno Amanda Mariana Marcos Camila Luciana Marcos Marcos Ana Mariana Bruno Marcia Leticia Ana Francisca Gabriel Juliana Carlos Ana Sandra Bruna,a a a o o a a s a a s s a a o a a a a l a s a a a,25,22~30,Output: a a a o o o a a a a a a a a a a a a a a,223,201,22
+Pedro Marcos Pedro Carlos Vanessa Daniel Pedro Sandra Luis Adriana Eduardo Sandra Adriana Marcelo Luiz Luis Rafael Jessica Antonio Gabriel Francisca Aline Antonio Sandra,o s o s a l o a s a o a a o z s l a o l a e o a,24,22~30,Output: o s o s a l d o a a o a a o a a a o a,216,195,21
+Marcia Patricia Joao Daniel Luiz Ana Gabriel Luciana Sandra Luiz Bruno Camila Maria Leticia Marcos Marcia Maria Sandra Carlos Patricia Lucas Patricia Eduardo Joao Antonio Lucas Aline Julia Marcia,a a o l z a l a a z o a a a s a a a s a s a o o o s e a a,29,22~30,Output: a a o l z a a a a a a a a a a a a a a a a a a,231,206,25
+Marcelo Amanda Lucas Jessica Marcia Ana Paulo Vanessa Camila Carlos Leticia Bruna Antonio Antonio Eduardo Juliana Jessica Antonia Marcos Julia Carlos Carlos Joao Luis Bruna Ana Luciana Fernanda Sandra,o a s a a a o a a s a a o o o a a a s a s s o s a a a a a,29,22~30,Output: o a s a a a a o a a a o a a a a a a a a a a a a a a,234,206,28
+Carlos Aline Vanessa Joao Luiz Francisco Gabriel Carlos Luiz Bruna Mariana Marcelo Francisca Gabriel Eduardo Eduardo Maria Francisca Lucas Maria Rafael Maria Marcelo,s e a o z o l s z a a o a l o o a a s a l a o,23,22~30,Output: s e a a o z o o l o a a a a a a o a a a,220,198,22
+Marcia Francisco Joao Marcia Gabriel Joao Adriana Pedro Marcos Fernanda Paulo Juliana Daniel Maria Mariana Daniel Rafael Camila Maria Mariana Amanda Aline Fernanda,a o o a l o a o s a o a l a a l l a a a a e a,23,22~30,Output: a o o a a l o a a o a a a a a a a a a a,222,200,22
+Gabriel Luis Pedro Luciana Adriana Joao Joao Vanessa Marcelo Bruno Luis Leticia Aline Paulo Ana Gabriel Aline Vanessa Camila Fernanda Bruno Vanessa Amanda Ana Antonia Patricia Ana Marcelo,l s o a a o o a o o s a e o a l e a a a o a a a a a a o,28,22~30,Output: L S O A A O O A A A A A A A A A A A A A,228,206,22
+Bruno Marcos Bruna Joao Patricia Antonia Antonio Jessica Luciana Francisca Sandra Patricia Antonia Maria Luis Fernanda Marcos Marcos Jose Patricia Luis Fernanda Gabriel Leticia,o s a o a a o a a a a a a a s a s s e a s a l a,24,22~30,Output: o s a o o a a a a a a a a a a a a a a,220,199,21
+Sandra Luis Marcos Gabriel Vanessa Amanda Fernanda Bruno Jose Pedro Antonio Francisco Rafael Patricia Jose Marcia Ana Fernanda Jessica Antonio Aline Amanda Julia Maria Jose Francisco Patricia Julia,a s s l a a a o e o o o l a e a a a a o e a a a e o a a,28,22~30,Output: a s s l a a a a o o a o a a a a a a a a a a a,222,197,25
+Bruna Rafael Maria Bruna Luiz Juliana Jose Jose Ana Sandra Camila Jessica Ana Lucas Aline Julia Joao Carlos Marcos Adriana Paulo Daniel Rafael Luiz Rafael,a l a a z a e e a a a a a s e a o s s a o l l z l,25,22~30,Output: a l a a a z a a a a a a a a a o o a o a o,222,199,23
+Jessica Vanessa Bruno Patricia Rafael Sandra Maria Eduardo Lucas Bruno Paulo Francisca Paulo Bruna Marcelo Paulo Joao Gabriel Francisco Camila Julia Lucas Maria Vanessa Jose Daniel Pedro Patricia Francisca,a a o a l a a o s o o a o a o o o l o a a s a a e l o a a,29,22~30,Output: a a o a a a a o s o o a a a a a o a a a a a a,225,200,25
+Jose Daniel Camila Paulo Daniel Juliana Patricia Mariana Gabriel Aline Luis Marcelo Ana Aline Carlos Lucas Aline Julia Francisco Camila Jessica Jessica,e l a o l a a a l e s o a e s s e a o a a a,22,22~30,Output: e l a o o l a a a a l a a a a a a a a,216,195,21
+Pedro Jose Bruna Marcos Vanessa Francisco Maria Francisca Jose Jose Marcos Luis Maria Joao Jose Bruna Vanessa Maria Juliana Julia Luis Gabriel Francisca Carlos,o e a s a o a a e e s s a o e a a a a a s l a s,24,22~30,Output: o e a s a a a o a a o e a a a a a a a a l a a,220,195,25
+Pedro Maria Bruno Luis Leticia Gabriel Luciana Adriana Adriana Sandra Bruna Aline Vanessa Ana Sandra Francisco Eduardo Marcelo Joao Adriana Carlos Marcelo Marcelo Francisco Julia,o a o s a l a a a a a e a a a o o o o a s o o o a,25,22~30,Output: o a o s a a a a a a a a a o o o o a o a a a,226,202,24
+Adriana Bruna Luis Paulo Julia Francisco Juliana Paulo Bruno Juliana Gabriel Joao Bruno Maria Sandra Pedro Antonio Adriana Vanessa Camila Pedro Rafael Julia Mariana Marcos Luis Ana Eduardo Marcelo,a a s o a o a o o a l o o a a o o a a a o l a a s s a o o,29,22~30,Output: a a s o o a a a o o a o a a a a a a o a a a a o,229,203,26
+Maria Marcelo Mariana Luciana Eduardo Maria Vanessa Mariana Sandra Rafael Lucas Mariana Daniel Joao Marcos Maria Antonia Sandra Luiz Marcelo Camila Ana Amanda Antonia Antonia Rafael Marcelo Marcelo Marcos,a o a a o a a a a l s a l o s a a a z o a a a a a l o o s,29,22~30,Output: a o a a a o a a a a a a o a a a a a a a a a a a a,235,208,27
+Antonio Ana Bruno Patricia Camila Fernanda Daniel Mariana Luiz Maria Marcelo Sandra Bruno Rafael Marcos Pedro Joao Aline Fernanda Carlos Adriana Jessica Luis Luis Patricia Marcelo Jose Joao,o a o a a a l a z a o a o l s o o e a s a a s s a o e o,28,22~30,Output: o a o a a a a l a a o o a o a a a a a a a a a a,230,204,26
+Marcos Eduardo Bruna Maria Juliana Patricia Paulo Adriana Lucas Gabriel Lucas Julia Paulo Luciana Marcos Marcelo Aline Fernanda Adriana Lucas Jessica Juliana Ana,s o a a a a o a s l s a o a s o e a a s a a a,23,22~30,Output: s o a a a a a o a a l s a a a a a a a a,219,197,22
+Lucas Francisco Juliana Patricia Marcia Pedro Ana Luis Juliana Jessica Joao Francisco Marcelo Sandra Jose Jose Bruno Bruno Sandra Marcelo Adriana Sandra Francisco Juliana Jessica Rafael Paulo Paulo Vanessa,s o a a a o a s a a o o o a e e o o a o a a o a a l o o a,29,22~30,Output: s o a a a a o a a a o a o o a a a a o a a a a o a a a,231,202,29
+Antonia Antonio Marcos Juliana Francisca Bruna Joao Maria Francisca Camila Sandra Eduardo Joao Marcos Maria Luciana Francisco Pedro Marcia Amanda Ana Marcia Julia Gabriel Juliana Bruno,a o s a a a o a a a a o o s a a o o a a a a a l a o,26,22~30,Output: a o s a a a a a o a a a o a a a a a a a o a,227,203,24
+Jose Camila Carlos Lucas Bruno Marcelo Adriana Francisco Camila Carlos Jessica Antonio Adriana Bruno Bruno Juliana Luiz Francisco Amanda Jessica Adriana Marcos Juliana Luiz Marcelo Luciana Carlos,e a s s o o a o a s a o a o o a z o a a a s a z o a s,27,22~30,Output: e a s s s o o a a o a a a a a a a a a a a a a a a,231,204,27
+Bruna Patricia Luiz Mariana Luis Luis Gabriel Eduardo Bruno Jose Lucas Rafael Patricia Sandra Daniel Vanessa Aline Camila Paulo Marcelo Adriana Gabriel,a a z a s s l o o e s l a a l a e a o o a l,22,22~30,Output: a a z s a s l o o l o o a a a a a o,214,194,20
+Rafael Pedro Bruno Camila Gabriel Marcia Vanessa Leticia Patricia Francisca Daniel Sandra Ana Marcos Francisca Joao Lucas Camila Francisco Bruno Julia Luciana Patricia Rafael,l o o a l a a a a a l a a s a o s a o o a a a l,24,22~30,Output: l o o a l a a a a a a a a o a a a a,218,198,20
+Juliana Aline Rafael Juliana Sandra Bruno Lucas Juliana Vanessa Gabriel Jose Marcelo Jessica Gabriel Julia Francisco Camila Jessica Jessica Marcos Luis Camila Marcelo,a e l a a o s a a l e o a l a o a a a s s a o,23,22~30,Output: a e l a a a o s s a l a a a a a a a a,217,196,21
+Jessica Maria Ana Bruna Adriana Bruno Bruna Daniel Lucas Leticia Gabriel Francisco Francisca Luiz Aline Jessica Lucas Maria Francisco Luis Ana Fernanda Marcos Amanda Francisco,a a a a a o a l s a l o a z e a s a o s a a s a o,25,22~30,Output: a a a a a a o s a a a a a a a a a a a,220,199,21
+Luiz Rafael Luis Luiz Bruna Juliana Juliana Maria Marcos Patricia Aline Bruno Rafael Luciana Juliana Sandra Pedro Paulo Luciana Joao Carlos Eduardo,z l s z a a a a s a e o l a a a o o a o s o,22,22~30,Output: z l s z a a a a a a a o a a a o o a o,218,197,21
+Lucas Lucas Marcelo Marcelo Bruna Luciana Luiz Eduardo Patricia Marcos Ana Aline Bruna Adriana Aline Luis Lucas Juliana Eduardo Lucas Patricia Bruno Maria Antonio Eduardo Carlos Camila Luiz Bruna,s s o o a a z o a s a e a a e s s a o s a o a o o s a z a,29,22~30,Output: s s o o a a z a a a a a a a a a a a a a a a a a,233,207,26
+Eduardo Leticia Luciana Fernanda Vanessa Jose Carlos Luciana Aline Aline Juliana Gabriel Julia Eduardo Carlos Marcia Jose Pedro Luciana Vanessa Camila Juliana Julia Carlos Luis Antonia Eduardo,o a a a a e s a e e a l a o s a e o a a a a a s s a o,27,22~30,Output: o a a a a a e o s o a a a a a a a a a a a a o,230,205,25
+Marcelo Amanda Patricia Aline Francisco Francisca Lucas Luiz Rafael Francisca Aline Vanessa Fernanda Carlos Camila Francisco Eduardo Marcos Paulo Paulo Marcelo Antonio Pedro Aline Luciana Camila Gabriel Marcelo,o a a e o a s z l a e a a s a o o s o o o o o e a a l o,28,22~30,Output: o a a a a a s a a a a a a o a a a a a o a a a a a o,234,206,28
+Leticia Antonia Jessica Joao Francisco Julia Amanda Adriana Carlos Marcelo Jessica Sandra Fernanda Lucas Marcelo Pedro Luis Daniel Julia Maria Patricia Rafael Vanessa,a a a o o a a a s o a a a s o o s l a a a l a,23,22~30,Output: a a a o o c a a a a o a a a o a a o,216,196,20
+Antonio Luciana Francisco Julia Antonia Marcos Ana Bruno Rafael Marcos Gabriel Antonia Juliana Jose Paulo Bruna Rafael Amanda Francisco Julia Paulo Pedro Luciana Antonia Jessica Luciana Sandra,o a o a a s a o l s l a a e o a l a o a o o a a a a a,27,22~30,Output: o a o a a a a a o a o a a a a a a a a a,222,200,22
+Luis Marcos Joao Camila Juliana Bruno Francisco Leticia Luciana Gabriel Patricia Carlos Fernanda Paulo Francisco Leticia Jessica Sandra Ana Sandra Rafael Carlos Francisco,s s o a a o o a a l a s a o o a a a a a l s o,23,22~30,Output: s s o a a a o a a a a a a a a a l,216,197,19
+Jessica Daniel Joao Amanda Jose Patricia Gabriel Luis Pedro Eduardo Maria Gabriel Gabriel Fernanda Amanda Paulo Eduardo Jessica Julia Juliana Carlos Francisco Lucas Lucas Bruna Leticia Gabriel Marcelo,a l o a e a l s o o a l l a a o o a a a s o s s a a l o,28,22~30,Output: a l o a a e a a l o o a a a a o a a a a a a a a,226,200,26
+Patricia Bruno Marcelo Fernanda Lucas Francisco Francisco Bruna Antonia Joao Adriana Adriana Sandra Sandra Juliana Antonio Maria Vanessa Luis Luciana Marcos Lucas Juliana Mariana Luis Vanessa,a o o a s o o a a o a a a a a o a a s a s s a a s a,26,22~30,Output: a o o a a o o a a a a a a a a a a a a a a a,226,202,24
+Leticia Patricia Juliana Julia Luciana Marcos Sandra Francisco Aline Vanessa Bruno,a a a a a s a o e a o,11,8~15,Output: a a a a a a a a o,192,181,11
+Patricia Jose Pedro Francisco Amanda Marcelo Marcia Rafael Gabriel Gabriel Pedro Francisca Francisco,a e o o a o a l l l o a o,13,8~15,Output: a e o o a o a a l a o a,195,181,14
+Leticia Aline Paulo Eduardo Luciana Ana Eduardo Daniel Antonia Amanda Mariana Lucas Luis Joao,a e o o a a o l a a a s s o,14,8~15,Output: a e o o a a o o a a a s s,201,186,15
+Jose Marcelo Marcia Gabriel Julia Ana Jessica Antonia Antonio,e o a l a a a a o,9,8~15,Output: e o a l a a a a o,188,177,11
+Paulo Amanda Luciana Luiz Sandra Vanessa Luis Mariana Antonio Julia Vanessa Francisca Antonio,o a a z a a s a o a a a o,13,8~15,Output: o a a z a a a a a a a,195,182,13
+Jose Gabriel Lucas Marcos Leticia Francisca Antonio Vanessa Luis Antonia Marcia Paulo Jessica Francisco,e l s s a a o a s a a o a o,14,8~15,Output: e l s s a a a a a a o a,198,184,14
+Fernanda Paulo Juliana Luis Luis Jessica Lucas Pedro Maria Leticia Antonia Maria Francisco Antonio,a o a s s a s o a a a a o o,14,8~15,Output: a o a s s a a s o a a a o,199,184,15
+Carlos Luiz Amanda Luciana Luciana Rafael Rafael Marcia Carlos,s z a a a l l a s,9,8~15,Output: s z a a a a a s s a s,191,178,13
+Paulo Pedro Fernanda Jessica Marcos Jose Mariana Ana Rafael Eduardo Francisco Sandra Mariana Julia,o o a a s e a a l o o a a a,14,8~15,Output: o o a a a s e o a a a a,196,182,14
+Aline Luis Ana Luiz Marcia Amanda Jose Lucas Ana Leticia Camila Luis Antonio,e s a z a a e s a a a s o,13,8~15,Output: e s a z a a a e a a a o,198,184,14
+Maria Gabriel Amanda Joao Fernanda Pedro Camila Bruna Daniel Ana Rafael,a l a o a o a a l a l,11,8~15,Output: a l a o o a a a l a,192,180,12
+Marcelo Julia Maria Gabriel Pedro Mariana Mariana Luciana Paulo Joao Marcia,o a a l o a a a o o a,11,8~15,Output: o a a l o a a a o o a,195,182,13
+Lucas Juliana Jose Jessica Amanda Francisco Julia Joao Gabriel Marcia Gabriel Amanda Maria,s a e a a o a o l a l a a,13,8~15,Output: s a e a a o a o o a a a,195,181,14
+Juliana Carlos Fernanda Luciana Joao Luiz Gabriel Mariana Amanda Francisco Ana Aline,a s a a o z l a a o a e,12,8~15,Output: a s a a a o z l a a a a,198,184,14
+Mariana Luiz Jose Fernanda Patricia Julia Francisco Eduardo Luis Marcos Rafael Eduardo Ana,a z e a a a o o s s l o a,13,8~15,Output: a z e a a a o o l s l o,195,181,14
+Aline Paulo Aline Vanessa Jessica Camila Paulo Jessica Mariana Pedro Luis Adriana Pedro,e o e a a a o a a o s a o,13,8~15,Output: e o e a a a o o a a o,196,183,13
+Amanda Fernanda Luciana Pedro Sandra Gabriel Fernanda Jessica Maria Joao Vanessa,a a a o a l a a a o a,11,8~15,Output: a a a o a a a a a,191,180,11
+Jose Sandra Eduardo Camila Antonio Francisco Marcia Bruno Luiz Juliana Marcia,e a o a o o a o z a a,11,8~15,Output: e a o a o o a o z a a,194,181,13
+Fernanda Jessica Jose Daniel Bruna Amanda Bruna Ana Gabriel Patricia Adriana Jessica Amanda,a a e l a a a a l a a a a,13,8~15,Output: a a e l a a a a a a,194,182,12
+Juliana Mariana Francisco Fernanda Aline Francisco Marcos Mariana Maria Julia,a a o a e o s a a a,10,8~15,Output: a a o a a a o s a a,192,180,12
+Francisca Juliana Amanda Jessica Marcos Jessica Paulo Leticia Antonia Marcos Patricia Bruno,a a a a s a o a a s a o,12,8~15,Output: a a a a a o o a a a o,195,182,13
+Fernanda Camila Sandra Bruno Patricia Lucas Adriana Luiz,a a a o a s a z,8,8~15,Output: a a a o a a s z,187,177,10
+Ana Ana Luciana Camila Patricia Luciana Leticia Eduardo Luis Vanessa Antonia,a a a a a a a o s a a,11,8~15,Output: a a a a a a a o s a,194,182,12
+Marcelo Francisco Camila Marcia Vanessa Camila Bruno Paulo Mariana Marcelo Joao Marcos Luis,o o a a a a o o a o o s s,13,8~15,Output: o o a a a a a o o o o s,199,185,14
+Francisco Carlos Fernanda Joao Luciana Francisco Aline Antonia Jose Francisco,o s a o a o e a e o,10,8~15,Output: o s a o o a a a e,191,180,11
+Jose Joao Patricia Camila Joao Luciana Marcia Aline,e o a a o a a e,8,8~15,Output: e o a a a a e,188,179,9
+Bruno Antonia Pedro Julia Maria Aline Amanda Mariana Maria Jose Joao Maria Pedro Mariana,o a o a a e a a a e o a o a,14,8~15,Output: o a o a a a a a a o a a a,199,184,15
+Rafael Mariana Jose Gabriel Jessica Patricia Daniel Fernanda,l a e l a a l a,8,8~15,Output: l a e l a a a,184,175,9
+Eduardo Marcia Gabriel Bruna Luiz Bruna Bruno Aline Daniel Eduardo Bruno Daniel,o a l a z a o e l o o l,12,8~15,Output: o a l a z u o o l,193,182,11
+Daniel Vanessa Paulo Luis Aline Luiz Leticia Maria,l a o s e z a a,8,8~15,Output: l a o o s a a a,187,177,10
+Daniel Gabriel Daniel Antonio Eduardo Antonio Sandra Juliana Vanessa,l l l o o o a a a,9,8~15,Output: l l l o o a a a,185,175,10
+Sandra Pedro Marcia Joao Joao Fernanda Marcia Fernanda,a o a o o a a a,8,8~15,Output: a o a o o a a a,189,179,10
+Eduardo Francisca Sandra Fernanda Luiz Eduardo Francisca Marcos Paulo Sandra Aline Marcos Maria,o a a a z o a s o a e s a,13,8~15,Output: o a a a a z o a a a a,196,183,13
+Francisca Joao Juliana Antonio Lucas Daniel Camila Camila Juliana Lucas Jessica Gabriel Daniel,a o a o s l a a a s a l l,13,8~15,Output: a o a o s l a a a a a l,198,184,14
+Francisco Gabriel Antonia Rafael Marcos Antonia Antonia Amanda Gabriel Lucas Lucas,o l a l s a a a l s s,11,8~15,Output: o l a l s o a a a d l s s,194,179,15
+Mariana Paulo Mariana Antonia Jose Sandra Maria Francisco Luciana Fernanda Joao,a o a a e a a o a a o,11,8~15,Output: a o a a a a a a o a,194,182,12
+Ana Daniel Fernanda Lucas Mariana Ana Camila Patricia Luis Patricia Jose Marcia Adriana Gabriel,a l a s a a a a s a e a a l,14,8~15,Output: a l a s s a a a a a a l,198,184,14
+Joao Adriana Julia Luis Rafael Gabriel Ana Luciana Bruno,o a a s l l a a o,9,8~15,Output: o a a s l l a a o,188,177,11
+Ana Camila Vanessa Mariana Adriana Maria Eduardo Bruna Leticia Amanda Jessica,a a a a a a o a a a a,11,8~15,Output: a a a a a a o a a a a,195,182,13
+Bruno Lucas Carlos Lucas Gabriel Antonio Julia Bruno Francisco Julia Adriana Bruna Ana,o s s s l o a o o a a a a,13,8~15,Output: o s s s o a a u o a a a,194,180,14
+Maria Amanda Mariana Rafael Sandra Leticia Pedro Mariana Paulo,a a a l a a o a o,9,8~15,Output: a a a l a a o o,188,178,10
+Francisca Rafael Rafael Amanda Bruna Luiz Juliana Vanessa Amanda Sandra Mariana Juliana Luis,a l l a a z a a a a a a s,13,8~15,Output: a l l a a z l a a a a n a,199,184,15
+Francisco Antonio Adriana Fernanda Marcelo Amanda Luciana Carlos Francisco Jessica Sandra,o o a a o a a s o a a,11,8~15,Output: o o a a o o a a s o a,193,180,13
+Rafael Eduardo Ana Patricia Maria Francisca Camila Antonio Antonia Marcos,l o a a a a a o a s,10,8~15,Output: l o a a a a a o a s,190,178,12
+Paulo Eduardo Luiz Paulo Marcelo Luciana Maria Francisca Carlos Sandra Ana Adriana,o o z o o a a a s a a a,12,8~15,Output: o o z o o a a a a a,194,182,12
+Amanda Francisco Ana Carlos Camila Marcia Juliana Luciana Mariana Fernanda Marcelo,a o a s a a a a a a o,11,8~15,Output: a o a s a a a a a o,195,183,12
+Adriana Carlos Pedro Bruna Eduardo Vanessa Jose Antonia Jose Adriana Antonia,a s o a o a e a e a a,11,8~15,Output: a s o a a o e e a a a,194,181,13
+Aline Marcos Paulo Leticia Marcelo Paulo Luiz Marcelo,e s o a o o z o,8,8~15,Output: e s o a o o z,188,179,9
+Lucas Maria Joao Francisco Camila Gabriel Gabriel Camila Luiz Luiz Antonia Gabriel,s a o o a l l a z z a l,12,8~15,Output: s a o o a l a l z z a a l,198,183,15
+Marcia Vanessa Jose Francisca Luiz Rafael Julia Antonia Maria Gabriel Bruno Carlos,a a e a z l a a a l o s,12,8~15,Output: a a e a z l a a a l o s,195,181,14
+Jose Daniel Marcelo Marcos Francisca Adriana Francisca Juliana Amanda Luciana Daniel,e l o s a a a a a a l,11,8~15,Output: e l o s a a a a a,193,182,11
+Sandra Luciana Rafael Marcelo Adriana Antonio Daniel Marcos Carlos Francisco Lucas,a a l o a o l s s o s,11,8~15,Output: a a l o o a o l s o o s,193,179,14
+Francisca Joao Amanda Joao Pedro Gabriel Luciana Maria Lucas Sandra Luciana Vanessa Bruna Daniel,a o a o o l a a s a a a a l,14,8~15,Output: a o a a o o a a a a a,198,185,13
+Pedro Carlos Pedro Camila Camila Fernanda Julia Bruna Luiz Eduardo Aline Marcelo Sandra Amanda,o s o a a a a a z o e o a a,14,8~15,Output: o s o a a a a a z o o a o,201,186,15
+Marcia Pedro Fernanda Antonia Leticia Pedro Lucas Francisco,a o a a a o s o,8,8~15,Output: a o a a a o s o,188,178,10
+Adriana Paulo Carlos Sandra Luiz Gabriel Patricia Jose Pedro Maria Pedro,a o s a z l a e o a o,11,8~15,Output: a o s a z l a e o a,190,178,12
+Patricia Antonio Bruna Gabriel Marcia Marcos Mariana Amanda Lucas,a o a l a s a a s,9,8~15,Output: a o a L a s a a s,188,177,11
+Jessica Marcos Patricia Adriana Marcia Marcelo Bruna Juliana Paulo Sandra Jose Jose,a s a a a o a a o a e e,12,8~15,Output: a s a a a o a a o o e,195,182,13
+Marcia Carlos Bruna Luciana Patricia Paulo Vanessa Fernanda,a s a a a o a a,8,8~15,Output: a s a a a o a a,187,177,10
+Fernanda Paulo Leticia Carlos Luis Rafael Rafael Patricia Francisca Mariana,a o a s s l l a a a,10,8~15,Output: a o a s s l l a a a,192,180,12
+Gabriel Luciana Pedro Julia Gabriel Daniel Julia Daniel Leticia Eduardo Francisco,l a o a l l a l a o o,11,8~15,Output: L a o a a L a l a o o,192,179,13
+Eduardo Bruna Lucas Antonia Aline Camila Vanessa Rafael Adriana Juliana Paulo Juliana Antonia Luiz,o a s a e a a l a a o a a z,14,8~15,Output: o a s a a a a a a a o a,202,188,14
+Fernanda Ana Patricia Sandra Maria Fernanda Adriana Leticia Camila,a a a a a a a a a,9,8~15,Output: a a a a a a a,189,180,9
+Carlos Marcos Vanessa Camila Patricia Camila Julia Aline Fernanda Leticia,s s a a a a a e a a,10,8~15,Output: s s a a a a a a,191,181,10
+Antonio Rafael Fernanda Daniel Jessica Daniel Vanessa Amanda Gabriel Bruno Francisca Maria,o l a l a l a a l o a a,12,8~15,Output: o l a l l a a a a o a,192,179,13
+Joao Julia Antonio Patricia Maria Rafael Amanda Pedro Gabriel Julia,o a o a a l a o l a,10,8~15,Output: o a o a a a a o,186,176,10
+Marcia Carlos Pedro Luiz Bruna Francisco Julia Rafael Jessica Luiz Daniel Sandra Jose Vanessa,a s o z a o a l a z l a e a,14,8~15,Output: a s o z a o a a a a a,196,183,13
+Antonio Luciana Pedro Marcos Daniel Marcelo Antonia Camila Maria Joao Maria Luciana,o a o s l o a a a o a a,12,8~15,Output: o a o o o l o a a a a,196,183,13
+Pedro Luiz Sandra Francisca Vanessa Aline Bruno Adriana Ana,o z a a a e o a a,9,8~15,Output: o z a a a a e o a a,190,178,12
+Aline Antonio Marcia Marcos Luciana Vanessa Fernanda Juliana Bruna,e o a s a a a a a,9,8~15,Output: e o a a a a a a,190,180,10
+Juliana Antonio Juliana Marcia Daniel Leticia Julia Luciana Rafael Fernanda Sandra Camila,a o a a l a a a l a a a,12,8~15,Output: a o a a l a a a a a a,198,185,13
+Marcia Leticia Ana Sandra Jessica Antonia Rafael Leticia Pedro Gabriel Francisca Adriana,a a a a a a l a o l a a,12,8~15,Output: a a a a a a a o a a,197,185,12
+Adriana Francisco Joao Luciana Lucas Julia Gabriel Maria Sandra Eduardo Eduardo Jessica Jessica,a o o a s a l a a o o a a,13,8~15,Output: a o o a s a a l a a a a a,196,181,15
+Daniel Francisco Ana Carlos Antonio Marcos Ana Sandra,l o a s o s a a,8,8~15,Output: l o a s s o s a,183,173,10
+Eduardo Camila Adriana Marcos Eduardo Vanessa Pedro Leticia,o a a s o a o a,8,8~15,Output: o a a a s o a a,187,177,10

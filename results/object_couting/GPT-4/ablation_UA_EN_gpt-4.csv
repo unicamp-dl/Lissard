@@ -1,0 +1,301 @@
+input,target,bins,pred
+"I have a cauliflower, a potato, a cabbage, a garlic, a yam, a lettuce head, a carrot, two stalks of celery, four heads of broccoli, and an onion.",14,13~18,Output: 14
+"I have a cabbage, a clarinet, a carrot, an onion, a lettuce head, a garlic, a yam, four cauliflowers, a potato, and a head of broccoli.",13,13~18,Output: 12
+"I have a lamp, two cars, a table, a chair, a fridge, two couches, an oven, a toaster, a microwave, and four stoves.",15,13~18,Output: 14
+"I have two plums, a raspberry, a blackberry, four peaches, an orange, four strawberries, a grape, two nectarines, and an apple.",17,13~18,Output: 16
+"I have three lettuce heads, four stalks of celery, a yam, a garlic, a flute, two carrots, and a cabbage.",13,13~18,Output: 12
+"I have a toaster, a lamp, a fridge, two microwaves, a car, a table, five couches, a chair, and an oven.",14,13~18,Output: 13
+"I have a lamp, two toasters, four beds, an oven, a stove, a table, a chair, a fridge, and two cars.",14,13~18,Output: 14
+"I have a plum, two strawberries, two oranges, a blackberry, two grapes, three nectarines, a banana, an apple, and a peach.",14,13~18,Output: 15
+"I have a trombone, three clarinets, three rabbits, a trumpet, a flute, a piano, an accordion, a violin, and a drum.",13,13~18,Output: 14
+"I have four apples, a banana, a nectarine, four peaches, an orange, a raspberry, a drum, and four flutes.",17,13~18,Output: 14
+"I have three pianos, a flute, a trumpet, a trombone, a violin, a clarinet, four drums, and two accordions.",14,13~18,Output: 13
+"I have four dogs, a rabbit, two bears, a fish, a cat, a frog, a duck, a donkey, a cow, and a goat.",14,13~18,Output: 10
+"I have a garlic, a cabbage, a cauliflower, a donkey, four potatoes, a stalk of celery, two mice, a snail, and three onions.",15,13~18,Output: 14
+"I have two stoves, a couch, a toaster, a chair, a fridge, two microwaves, an oven, two lamps, a table, and a bed.",13,13~18,Output: 11
+"I have a dog, a cow, a snake, a mouse, a rabbit, three cats, a bear, four goats, and two chickens.",15,13~18,Output: 14
+"I have a nectarine, a banana, a blackberry, two raspberries, an apple, five grapes, a peach, and a strawberry.",13,13~18,Output: 13
+"I have a frog, a dog, four goats, two fish, a duck, a cow, a chicken, a cat, and a mouse.",13,13~18,Output: 12
+"I have a nectarine, five blackberries, a plum, a peach, a strawberry, a raspberry, an apple, four bananas, an orange, and a grape.",17,13~18,Output: 16
+"I have a raspberry, a blackberry, a plum, two peaches, two strawberries, an apple, a grape, five bananas, an orange, and a nectarine.",16,13~18,Output: 15
+"I have four cars, a lamp, a table, three fridges, a chair, two stoves, a couch, a microwave, and a toaster.",15,13~18,Output: 13
+"I have a mouse, three snails, two dogs, a snake, two ducks, a donkey, a bear, a cow, and a frog.",13,13~18,Output: 12
+"I have a peach, a cauliflower, a garlic, three bananas, a nectarine, an orange, a plum, a grape, a raspberry, a head of broccoli, and a strawberry.",13,13~18,Output: 12
+"I have two strawberries, a raspberry, a plum, four oranges, an apple, two blackberries, two grapes, and two nectarines.",15,13~18,Output: 14
+"I have a yam, three heads of broccoli, an onion, three cauliflowers, a carrot, a garlic, a potato, and three stalks of celery.",14,13~18,Output: 13
+"I have a peach, a blackberry, two apples, a raspberry, a strawberry, a nectarine, a grape, a plum, three oranges, and a banana.",13,13~18,Output: 12
+"I have a carrot, a garlic, a potato, a couch, two lettuce heads, a stalk of celery, a cabbage, a cauliflower, a lamp, a yam, a car, and a head of broccoli.",13,13~18,Output: 12
+"I have a fridge, a car, a lamp, a couch, two ovens, two stoves, three microwaves, a toaster, and a chair.",13,13~18,Output: 12
+"I have four chairs, an orange, a blackberry, four strawberries, a grape, three raspberries, and a banana.",15,13~18,Output: 15
+"I have four raspberries, a banana, a nectarine, a peach, three apples, an orange, a strawberry, and a blackberry.",13,13~18,Output: 12
+"I have three pianos, a violin, a clarinet, a trombone, two accordions, a trumpet, three flutes, and a drum.",13,13~18,Output: 12
+"I have four apples, three blackberries, a plum, two microwaves, a nectarine, an orange, a grape, a peach, and a raspberry.",15,13~18,Output: 14
+"I have three cauliflowers, three heads of broccoli, two yams, an onion, a carrot, a lettuce head, a potato, and a cabbage.",13,13~18,Output: 14
+"I have a plum, a chicken, two blackberries, a bear, an apple, three grapes, two cats, and two oranges.",13,13~18,Output: 12
+"I have a mouse, a cow, a bear, two rabbits, a fish, a cat, a chicken, and five snakes.",13,13~18,Output: 12
+"I have a bear, a mouse, a duck, a snake, a snail, a chicken, a donkey, a cow, four goats, and a rabbit.",13,13~18,Output: 11
+"I have a car, an oven, a microwave, two fridges, a chair, a lamp, a toaster, three stoves, and four tables.",15,13~18,Output: 13
+"I have a peach, a banana, three apples, two nectarines, a strawberry, a blackberry, two raspberries, a grape, an orange, and a plum.",14,13~18,Output: 13
+"I have a table, a chair, four cars, an oven, a bed, a microwave, a stove, a couch, four lamps, and a toaster.",16,13~18,Output: 15
+"I have a blackberry, a strawberry, three tables, an orange, a raspberry, three peaches, a nectarine, a couch, and two lamps.",14,13~18,Output: 13
+"I have a couch, four microwaves, two lamps, a stove, a fridge, a car, two ovens, and a chair.",13,13~18,Output: 12
+"I have a head of broccoli, a potato, three onions, three cabbages, a snail, a stalk of celery, a yam, a lettuce head, a carrot, and a garlic.",14,13~18,Output: 14
+"I have three carrots, two stalks of celery, three yams, a cabbage, a lettuce head, an onion, a cauliflower, and a head of broccoli.",13,13~18,Output: 14
+"I have a table, three couches, an oven, a bed, a fridge, three chairs, three lamps, a car, a toaster, and a stove.",16,13~18,Output: 16
+"I have five raspberries, a banana, a peach, an apple, a blackberry, a nectarine, a grape, an orange, and two strawberries.",14,13~18,Output: 13
+"I have a trumpet, a frog, a cow, two ducks, a flute, a trombone, a clarinet, a piano, a violin, two accordions, and three drums.",15,13~18,Output: 14
+"I have a couch, two ovens, a table, a lamp, two stoves, five microwaves, and a fridge.",13,13~18,Output: 12
+"I have three trombones, a piano, a flute, a clarinet, a violin, four accordions, a drum, and a trumpet.",13,13~18,Output: 11
+"I have three mice, a rabbit, a pig, a chicken, a cow, a cat, three snakes, four snails, a dog, and a frog.",17,13~18,Output: 16
+"I have a snail, two dogs, a chicken, a mouse, a donkey, a rabbit, three frogs, two snakes, a goat, and a duck.",14,13~18,Output: 14
+"I have a garlic, an onion, a yam, a stalk of celery, three carrots, a cauliflower, a cabbage, a potato, a lettuce head, two cars, a table, and a head of broccoli.",15,13~18,Output: 14
+"I have three strawberries, a flute, an accordion, two pianos, a trombone, a clarinet, a trumpet, a peach, a raspberry, a violin, and a drum.",14,13~18,Output: 12
+"I have a garlic, a potato, an onion, a head of broccoli, five cabbages, a lettuce head, a stalk of celery, a cauliflower, and two carrots.",14,13~18,Output: 13
+"I have two cabbages, two garlics, an onion, a chicken, a lettuce head, a stalk of celery, a head of broccoli, a cauliflower, a yam, two carrots, and three mice.",16,13~18,Output: 15
+"I have a fridge, two ovens, a stove, three tables, a bed, a microwave, a couch, a toaster, and two cars.",13,13~18,Output: 12
+"I have a snake, a bear, two potatoes, two cats, a cauliflower, a cow, a frog, a head of broccoli, a fish, a pig, a chicken, a donkey, and a snail.",15,13~18,Output: 14
+"I have three potatoes, a yam, an onion, three cabbages, a cauliflower, two garlics, a lettuce head, a head of broccoli, and three carrots.",16,13~18,Output: 15
+"I have a dog, two cows, two fish, a rabbit, a chicken, a cat, a drum, a frog, a bear, a violin, and a goat.",13,13~18,Output: 12
+"I have an oven, a table, three beds, a stove, three lamps, a car, a fridge, a chair, and a microwave.",13,13~18,Output: 12
+"I have an orange, a blackberry, a nectarine, a donkey, a cow, a raspberry, a duck, an apple, a strawberry, a grape, two bananas, a plum, and a peach.",14,13~18,Output: 14
+"I have a couch, five chairs, a fridge, a lamp, an oven, three beds, a table, a toaster, and a microwave.",15,13~18,Output: 9
+"I have a trumpet, two trombones, an orange, an accordion, a piano, a violin, two clarinets, a drum, three flutes, and a raspberry.",14,13~18,Output: 13
+"I have three cars, a table, three couches, three beds, a microwave, a chair, a toaster, a lamp, an oven, and two fridges.",17,13~18,Output: 16
+"I have a dog, a rabbit, a mouse, a donkey, a cat, four frogs, a pig, a duck, a snake, and a goat.",13,13~18,Output: 14
+"I have three grapes, an accordion, a blackberry, three peaches, a nectarine, a raspberry, an orange, an apple, four strawberries, and a banana.",17,13~18,Output: 16
+"I have an apple, a banana, a drum, an orange, a grape, a trombone, three accordions, a raspberry, four blackberries, two peaches, and a nectarine.",17,13~18,Output: 16
+"I have a trumpet, a drum, a violin, three flutes, two accordions, a clarinet, a trombone, a piano, a carrot, and two onions.",14,13~18,Output: 13
+"I have a bear, three fish, a frog, a mouse, three cows, a snake, a chicken, a duck, and a chair.",13,13~18,Output: 13
+"I have a cat, a frog, a bear, a snail, a mouse, a rabbit, three dogs, a duck, three cows, and a chicken.",14,13~18,Output: 13
+"I have three goats, a chicken, a fish, three pigs, three frogs, a snail, an onion, a donkey, a mouse, and a rabbit.",16,13~18,Output: 15
+"I have a cauliflower, two cabbages, three fish, a stalk of celery, a head of broccoli, a garlic, an onion, and four snails.",14,13~18,Output: 14
+"I have four yams, a cabbage, a cauliflower, a lamp, a potato, a head of broccoli, a stove, a carrot, a garlic, an onion, a bed, and a stalk of celery.",15,13~18,Output: 12
+"I have a cow, a cat, two bears, a duck, a rabbit, two chickens, three snakes, a grape, a nectarine, a strawberry, and a frog.",15,13~18,Output: 14
+"I have a peach, a snake, two apples, a blackberry, two raspberries, a mouse, a plum, an orange, a nectarine, a strawberry, a banana, and a grape.",14,13~18,Output: 13
+"I have two carrots, two cabbages, a potato, a garlic, three onions, a trumpet, a yam, a stalk of celery, a lettuce head, a cauliflower, and a clarinet.",15,13~18,Output: 15
+"I have a plum, a banana, a blackberry, a nectarine, a raspberry, an orange, a peach, four heads of broccoli, a grape, an apple, and a strawberry.",14,13~18,Output: 14
+"I have an onion, a potato, four stalks of celery, a yam, a cabbage, three garlics, a carrot, a cauliflower, a couch, two lettuce heads, a head of broccoli, and a lamp.",18,18~25,Output: 17
+"I have two rabbits, a mouse, two snails, a bear, a pig, a blackberry, a cat, two donkeys, a goat, a cow, and five snakes.",18,18~25,Output: 16
+"I have a stove, a couch, a lamp, two fridges, a bed, four ovens, a car, four toasters, a microwave, and five chairs.",21,18~25,Output: 20
+"I have a dog, four chickens, four donkeys, three pigs, four bears, three mice, and a cat.",20,18~25,Output: 20
+"I have a piano, four flutes, three violins, a stalk of celery, two drums, two lettuce heads, a trumpet, a potato, an accordion, a clarinet, and three trombones.",20,18~25,Output: 18
+"I have a garlic, three cauliflowers, five cabbages, a yam, a nectarine, a stalk of celery, a strawberry, a head of broccoli, an onion, four potatoes, and a carrot.",20,18~25,Output: 17
+"I have an onion, a head of broccoli, a potato, a yam, four stalks of celery, four garlics, a carrot, a cabbage, three lettuce heads, and a cauliflower.",18,18~25,Output: 17
+"I have three apples, a garlic, two raspberries, a nectarine, two oranges, a stalk of celery, a peach, a plum, three blackberries, a potato, and four strawberries.",20,18~25,Output: 20
+"I have a blackberry, two carrots, a raspberry, a yam, three garlics, a potato, a cauliflower, three cabbages, an onion, a lettuce head, an orange, and three stalks of celery.",19,18~25,Output: 17
+"I have an apple, three blackberries, two strawberries, four nectarines, a banana, an orange, a peach, a plum, a raspberry, five grapes, and a flute.",21,18~25,Output: 20
+"I have a grape, two plums, two strawberries, a banana, two blackberries, two nectarines, three donkeys, a peach, three dogs, an apple, an orange, a snake, and a raspberry.",21,18~25,Output: 20
+"I have a stove, two toasters, a fridge, a bed, two couches, three chairs, three ovens, a microwave, a table, and five cars.",20,18~25,Output: 18
+"I have a stalk of celery, a lettuce head, five cabbages, a garlic, a grape, an onion, a cauliflower, a strawberry, two carrots, a potato, a yam, a nectarine, and a head of broccoli.",18,18~25,Output: 17
+"I have four stoves, a fridge, a table, three toasters, a chair, a car, two beds, an oven, and four couches.",18,18~25,Output: 16
+"I have a cow, a carrot, a cat, three donkeys, two frogs, a stalk of celery, a goat, a cabbage, a dog, two pigs, a fish, a snail, and four rabbits.",20,18~25,Output: 20
+"I have a pig, a table, five snakes, a cow, a bear, a microwave, three fish, a rabbit, a mouse, three frogs, a chicken, two cats, and a bed.",22,18~25,Output: 20
+"I have a head of broccoli, a car, a carrot, a stalk of celery, four cabbages, five potatoes, an onion, a toaster, a yam, an oven, and a garlic.",18,18~25,Output: 15
+"I have five dogs, two donkeys, a cat, a pig, a mouse, three bears, a snail, a rabbit, two fish, and a cow.",18,18~25,Output: 16
+"I have four cabbages, a stalk of celery, a potato, a carrot, three cauliflowers, an apple, a garlic, a lettuce head, two heads of broccoli, an orange, an onion, and four bananas.",21,18~25,Output: 21
+"I have a bed, five toasters, a microwave, four chairs, four fridges, a table, an oven, and a couch.",18,18~25,Output: 17
+"I have five drums, three accordions, two flutes, three trumpets, a clarinet, a piano, a violin, and two trombones.",18,18~25,Output: 17
+"I have a raspberry, a grape, a peach, an orange, a car, three plums, an apple, a nectarine, three bananas, a strawberry, a blackberry, four fridges, and a stove.",20,18~25,Output: 18
+"I have a head of broccoli, three onions, a carrot, two lettuce heads, four stalks of celery, a cauliflower, a yam, a potato, three cabbages, and a garlic.",18,18~25,Output: 17
+"I have three donkeys, a chicken, three bears, a mouse, two goats, three snakes, a frog, a snail, two pigs, and a cow.",18,18~25,Output: 16
+"I have a banana, a plum, a raspberry, an apple, two blackberries, a grape, an orange, a strawberry, three peaches, a garlic, and five nectarines.",18,18~25,Output: 16
+"I have two strawberries, an orange, two raspberries, three plums, a peach, a blackberry, a nectarine, a banana, a grape, and five apples.",18,18~25,Output: 16
+"I have a lettuce head, a yam, a stalk of celery, a potato, four cabbages, four garlics, a cow, four onions, a cauliflower, a head of broccoli, and a carrot.",20,18~25,Output: 18
+"I have three snakes, three cats, a dog, a cow, three snails, a donkey, a goat, a duck, three pigs, and a fish.",18,18~25,Output: 17
+"I have two plums, a banana, a strawberry, three blackberries, a cauliflower, a head of broccoli, a raspberry, two grapes, five nectarines, and a peach.",18,18~25,Output: 16
+"I have a plum, a grape, an orange, three raspberries, four strawberries, four nectarines, three bananas, an apple, and a peach.",19,18~25,Output: 19
+"I have a peach, a blackberry, a grape, three apples, a banana, four plums, two strawberries, a nectarine, three raspberries, and an orange.",18,18~25,Output: 16
+"I have a yam, four stalks of celery, a bed, two lettuce heads, four couches, a potato, an onion, a head of broccoli, three garlics, and a carrot.",19,18~25,Output: 18
+"I have three fish, a dog, a snail, a duck, a chicken, a goat, a bear, five snakes, a rabbit, and three mice.",18,18~25,Output: 16
+"I have two nectarines, two goats, three ducks, two dogs, a strawberry, a frog, a raspberry, three snakes, a rabbit, a cat, a donkey, a snail, and two chickens.",21,18~25,Output: 20
+"I have three potatoes, five cabbages, a lettuce head, three peaches, a head of broccoli, an onion, two oranges, a raspberry, a cauliflower, and a stalk of celery.",19,18~25,Output: 17
+"I have a frog, a cow, a goat, a rabbit, a chicken, a duck, two donkeys, four mice, five cats, and a snake.",18,18~25,Output: 16
+"I have two chickens, a pig, four dogs, a donkey, a duck, a cat, a goat, two mice, five nectarines, and a frog.",19,18~25,Output: 18
+"I have three apples, a grape, a strawberry, two peaches, a plum, four stoves, three nectarines, a bed, a chair, a banana, and a raspberry.",19,18~25,Output: 17
+"I have a raspberry, a table, three toasters, a nectarine, five apples, a strawberry, a banana, two microwaves, a peach, a blackberry, an orange, a plum, and three grapes.",22,18~25,Output: 21
+"I have four couches, a car, a chair, five toasters, a microwave, four beds, a lamp, and a fridge.",18,18~25,Output: 15
+"I have a piano, a carrot, four onions, a cabbage, a head of broccoli, two yams, three trombones, a cauliflower, three potatoes, a garlic, and a stalk of celery.",19,18~25,Output: 17
+"I have a garlic, two onions, three carrots, a cauliflower, four heads of broccoli, a potato, five lettuce heads, a cabbage, four stalks of celery, and a yam.",23,18~25,Output: 23
+"I have a cabbage, two carrots, a toaster, a lettuce head, a car, four potatoes, three yams, a chair, a cauliflower, two heads of broccoli, and three garlics.",20,18~25,Output: 20
+"I have an apple, two nectarines, a grape, a plum, four raspberries, a stalk of celery, an orange, a lettuce head, a potato, four bananas, five blackberries, and a strawberry.",23,18~25,Output: 22
+"I have a snake, four cows, a cat, four pigs, a donkey, a fish, three goats, a drum, a duck, a clarinet, a mouse, and two snails.",21,18~25,Output: 16
+"I have a plum, two oranges, an apple, a peach, a banana, four strawberries, a nectarine, a raspberry, five blackberries, and a donkey.",18,18~25,Output: 17
+"I have two cauliflowers, two potatoes, a raspberry, an onion, a lettuce head, a head of broccoli, four cabbages, a garlic, four carrots, a peach, and three stalks of celery.",21,18~25,Output: 20
+"I have three apples, a peach, an orange, two raspberries, a banana, a blackberry, a nectarine, four strawberries, two grapes, and two plums.",18,18~25,Output: 16
+"I have two ovens, two toasters, a microwave, three stoves, a table, a lamp, a couch, five fridges, and five chairs.",21,18~25,Output: 20
+"I have a plum, five blackberries, two cabbages, two cauliflowers, a banana, a grape, a nectarine, an orange, a raspberry, a carrot, an apple, a strawberry, and a peach.",19,18~25,Output: 18
+"I have a goat, a lamp, a fish, a duck, a stove, four chickens, a bed, five cats, and three rabbits.",18,18~25,Output: 16
+"I have a stove, a toaster, three tables, a lamp, two chairs, three fridges, a microwave, a couch, a car, and four beds.",18,18~25,Output: 16
+"I have five bears, three mice, two dogs, a pig, a cow, a rabbit, three snakes, a frog, and a donkey.",18,18~25,Output: 16
+"I have three cauliflowers, a drum, a yam, two lettuce heads, a trumpet, a garlic, a head of broccoli, a cabbage, two stalks of celery, an onion, three carrots, and a piano.",18,18~25,Output: 17
+"I have two potatoes, three bears, a fish, a snake, two stalks of celery, a dog, four chickens, a rabbit, a mouse, and two cows.",18,18~25,Output: 16
+"I have two violins, four flutes, four clarinets, an accordion, three trumpets, a drum, and four trombones.",19,18~25,Output: 19
+"I have an oven, four toasters, a bed, a stove, a table, a chair, four lamps, a car, and five fridges.",19,18~25,Output: 17
+"I have a grape, five peaches, a plum, a banana, an orange, a blackberry, a raspberry, four apples, a strawberry, and two nectarines.",18,18~25,Output: 16
+"I have two beds, a fridge, four ovens, a table, a microwave, four toasters, a car, a lamp, two chairs, and three couches.",20,18~25,Output: 18
+"I have an orange, two blackberries, a nectarine, a peach, five strawberries, a plum, a grape, a banana, two apples, a lamp, and three raspberries.",19,18~25,Output: 17
+"I have a couch, an oven, three chairs, three fridges, three microwaves, a stove, two beds, two lamps, a toaster, and a table.",18,18~25,Output: 16
+"I have a trombone, a violin, a trumpet, an accordion, two drums, a bed, a flute, four pianos, a lamp, and five clarinets.",18,18~25,Output: 16
+"I have a banana, three apples, four blackberries, two peaches, a raspberry, a strawberry, three grapes, a plum, an orange, and a nectarine.",18,18~25,Output: 16
+"I have two ovens, a lettuce head, four cauliflowers, a stalk of celery, two cabbages, a carrot, four heads of broccoli, a lamp, a couch, a garlic, a yam, and an onion.",20,18~25,Output: 18
+"I have a car, three beds, three toasters, a stove, a lamp, a table, three fridges, four chairs, a microwave, and a couch.",19,18~25,Output: 16
+"I have three strawberries, an apple, an orange, four peaches, a banana, two blackberries, three plums, a nectarine, a raspberry, and a grape.",18,18~25,Output: 16
+"I have a lamp, a couch, four tables, a toaster, a car, two fridges, a chair, two beds, four microwaves, and a stove.",18,18~25,Output: 16
+"I have two cabbages, a garlic, two cauliflowers, two onions, a head of broccoli, a potato, a pig, three yams, four fish, and a stalk of celery.",18,18~25,Output: 16
+"I have two plums, four blackberries, two onions, a nectarine, a strawberry, an orange, a carrot, two raspberries, an apple, two yams, a banana, and a peach.",19,18~25,Output: 18
+"I have a blackberry, a nectarine, an orange, three plums, a grape, two peaches, a banana, a raspberry, four strawberries, and three apples.",18,18~25,Output: 16
+"I have a cauliflower, a cabbage, a potato, a yam, two stalks of celery, four onions, a lettuce head, five heads of broccoli, a carrot, and a violin.",18,18~25,Output: 16
+"I have a piano, three ducks, a snake, a cow, a bear, a snail, a frog, a drum, four dogs, a goat, a trombone, and two pigs.",18,18~25,Output: 16
+"I have a microwave, four beds, three ovens, five toasters, a lamp, a table, a car, a stove, and a chair.",18,18~25,Output: 16
+"I have five goats, a fish, a frog, five cats, a dog, a mouse, a pig, a snake, two ducks, and a bear.",19,18~25,Output: 17
+"I have a cauliflower, two onions, five garlics, three heads of broccoli, a lettuce head, a stalk of celery, a yam, two carrots, a potato, and a cabbage.",18,18~25,Output: 16
+"I have an accordion, a flute, and a clarinet.",3,1~7,Output: 3
+"I have a snake, a duck, a yam, and a cow.",4,1~7,Output: 4
+"I have a peach, a banana, and a nectarine.",3,1~7,Output: 3
+"I have a potato, and an onion.",2,1~7,Output: 2
+"I have a pig, two clarinets, a trombone, and a frog.",5,1~7,Output: 5
+"I have a cabbage, a carrot, and an onion.",3,1~7,Output: 3
+"I have a trombone, two pianos, and two violins.",5,1~7,Output: 5
+"I have a strawberry, and two apples.",3,1~7,Output: 3
+"I have two potatoes, an onion, and a cabbage.",4,1~7,Output: 4
+"I have a flute, and a trumpet.",2,1~7,Output: 2
+"I have a grape, a strawberry, a banana, and a plum.",4,1~7,Output: 4
+"I have two heads of broccoli, a stalk of celery, a lettuce head, and a potato.",5,1~7,Output: 5
+"I have a cat, and a snail.",2,1~7,Output: 2
+"I have a piano, a violin, and an accordion.",3,1~7,Output: 3
+"I have a flute, an accordion, a car, a stove, a trombone, and a chair.",6,1~7,Output: 6
+"I have a chair, three toasters, and a car.",5,1~7,Output: 5
+"I have a mouse, a snake, a pig, a frog, a donkey, and a chicken.",6,1~7,Output: 6
+"I have a flute, and a clarinet.",2,1~7,Output: 2
+"I have a lamp, and a couch.",2,1~7,Output: 2
+"I have a yam, a potato, a head of broccoli, an onion, and two cabbages.",6,1~7,Output: 6
+"I have a donkey, a frog, and a bear.",3,1~7,Output: 3
+"I have a rabbit, a pig, and three donkeys.",5,1~7,Output: 5
+"I have three snails, a bear, a violin, and a piano.",6,1~7,Output: 6
+"I have a frog, a donkey, and a mouse.",3,1~7,Output: 3
+"I have a snail, and a donkey.",2,1~7,Output: 2
+"I have a cow, two cats, a snake, and a duck.",5,1~7,Output: 5
+"I have a fridge, and an oven.",2,1~7,Output: 2
+"I have two garlics, a stalk of celery, and three cauliflowers.",6,1~7,Output: 6
+"I have a table, a toaster, a car, and a couch.",4,1~7,Output: 4
+"I have a cow, a frog, and three donkeys.",5,1~7,Output: 5
+"I have a cauliflower, and two lettuce heads.",3,1~7,Output: 3
+"I have a cabbage, two garlics, a stalk of celery, and two carrots.",6,1~7,Output: 6
+"I have a couch, a chair, two cars, and an oven.",5,1~7,Output: 5
+"I have a chair, a car, and a fridge.",3,1~7,Output: 3
+"I have a flute, a drum, and three accordions.",5,1~7,Output: 5
+"I have three cauliflowers, a lamp, an onion, and a cabbage.",6,1~7,Output: 6
+"I have a violin, a pig, a rabbit, a flute, and a cow.",5,1~7,Output: 5
+"I have two rabbits, a chicken, and a bear.",4,1~7,Output: 4
+"I have two cats, and a cow.",3,1~7,Output: 3
+"I have a potato, a head of broccoli, a cauliflower, a lettuce head, and an onion.",5,1~7,Output: 5
+"I have a piano, a clarinet, an accordion, a trombone, a trumpet, and a flute.",6,1~7,Output: 6
+"I have a bed, a table, an oven, a lamp, and a toaster.",5,1~7,Output: 5
+"I have an orange, an apple, a grape, and a nectarine.",4,1~7,Output: 4
+"I have a table, a car, a couch, a fridge, a stove, and an oven.",6,1~7,Output: 6
+"I have a drum, an orange, two nectarines, a banana, and a strawberry.",6,1~7,Output: 6
+"I have two raspberries, and two bananas.",4,1~7,Output: 4
+"I have a banana, a peach, a grape, and a raspberry.",4,1~7,Output: 4
+"I have a piano, a drum, a trumpet, and a clarinet.",4,1~7,Output: 4
+"I have a snail, a bear, a fish, a pig, a mouse, and a dog.",6,1~7,Output: 6
+"I have a raspberry, a peach, a potato, and a garlic.",4,1~7,Output: 4
+"I have a microwave, a head of broccoli, a lamp, a potato, and a car.",5,1~7,Output: 5
+"I have a banana, a grape, and a plum.",3,1~7,Output: 3
+"I have a trombone, a microwave, a car, and two accordions.",5,1~7,Output: 5
+"I have a frog, a bear, a dog, a snail, and a chicken.",5,1~7,Output: 5
+"I have two cauliflowers, and an onion.",3,1~7,Output: 3
+"I have a goat, a mouse, and a rabbit.",3,1~7,Output: 3
+"I have a yam, a stalk of celery, an onion, a lettuce head, a head of broccoli, and a potato.",6,1~7,Output: 6
+"I have a fridge, a couch, an oven, a microwave, and a table.",5,1~7,Output: 5
+"I have a potato, a cauliflower, a lettuce head, a yam, a cabbage, and a garlic.",6,1~7,Output: 6
+"I have a table, and a toaster.",2,1~7,Output: 2
+"I have a couch, a lamp, a stove, and a fridge.",4,1~7,Output: 4
+"I have a drum, a trumpet, an accordion, and a violin.",4,1~7,Output: 4
+"I have a grape, and four blackberries.",5,1~7,Output: 5
+"I have an accordion, a chair, a trumpet, and a couch.",4,1~7,Output: 4
+"I have a flute, and a drum.",2,1~7,Output: 2
+"I have a head of broccoli, a plum, a banana, and an orange.",4,1~7,Output: 4
+"I have a car, an oven, a lamp, and three fridges.",6,1~7,Output: 6
+"I have a chicken, a duck, two rabbits, a dog, and a cow.",6,1~7,Output: 6
+"I have a raspberry, a blackberry, a peach, and a nectarine.",4,1~7,Output: 4
+"I have a snake, three bears, and a dog.",5,1~7,Output: 5
+"I have a blackberry, a strawberry, an apple, an orange, and a peach.",5,1~7,Output: 5
+"I have a blackberry, three oranges, an apple, and a grape.",6,1~7,Output: 6
+"I have a goat, and three ducks.",4,1~7,Output: 4
+"I have a goat, a rabbit, and a frog.",3,1~7,Output: 3
+"I have a table, a fridge, a bed, and a couch.",4,1~7,Output: 4
+"I have a raspberry, a nectarine, a blackberry, three oranges, a grape, an apple, a strawberry, and a peach.",10,7~13,Output: 10
+"I have a cow, three cats, a mouse, a rabbit, a snail, three pigs, and a goat.",11,7~13,Output: 10
+"I have three clarinets, a trombone, four accordions, a flute, and a violin.",10,7~13,Output: 9
+"I have a drum, two trombones, four flutes, two accordions, a violin, a clarinet, and a piano.",12,7~13,Output: 11
+"I have an onion, a potato, two stalks of celery, three cauliflowers, a cabbage, a head of broccoli, and two yams.",11,7~13,Output: 10
+"I have three trombones, two accordions, a peach, a flute, a banana, and a raspberry.",9,7~13,Output: 9
+"I have a blackberry, two strawberries, a nectarine, a grape, two oranges, three raspberries, and a plum.",11,7~13,Output: 11
+"I have five cauliflowers, a stove, a stalk of celery, and a microwave.",8,7~13,Output: 8
+"I have three fridges, an oven, a couch, a microwave, a lamp, a toaster, a table, and a bed.",10,7~13,Output: 10
+"I have a fish, a pig, an onion, a donkey, a bear, a snail, a goat, and a mouse.",8,7~13,Output: 8
+"I have a carrot, an onion, a garlic, a cauliflower, three potatoes, and a yam.",8,7~13,Output: 8
+"I have a piano, four oranges, an apple, a grape, and a trombone.",8,7~13,Output: 8
+"I have two lamps, a stove, a table, two cars, a couch, a fridge, a bed, a microwave, and two toasters.",12,7~13,Output: 11
+"I have a fridge, a microwave, a chair, three ovens, a stove, and four lamps.",11,7~13,Output: 10
+"I have a carrot, a cabbage, a lettuce head, a yam, a stalk of celery, a head of broccoli, an onion, a potato, and a cauliflower.",9,7~13,Output: 9
+"I have a stove, an oven, a chair, a bed, a couch, a fridge, a car, and a table.",8,7~13,Output: 8
+"I have a goat, a bear, two snakes, a frog, a cow, a dog, a mouse, a snail, a chicken, and a duck.",11,7~13,Output: 10
+"I have a cow, a fish, a snake, a frog, a duck, a cat, a chicken, a rabbit, a goat, and a snail.",10,7~13,Output: 10
+"I have a duck, a frog, a cat, a fish, a bear, a mouse, three chickens, a rabbit, and a pig.",11,7~13,Output: 11
+"I have four toasters, a couch, a lamp, two beds, a fridge, and three microwaves.",12,7~13,Output: 11
+"I have an accordion, five pianos, a clarinet, a violin, a trumpet, a drum, a trombone, and a flute.",12,7~13,Output: 11
+"I have a peach, a grape, a raspberry, a plum, a banana, a nectarine, an apple, a strawberry, an orange, and three blackberries.",12,7~13,Output: 13
+"I have a piano, a flute, a trumpet, an accordion, a clarinet, a violin, a trombone, and a drum.",8,7~13,Output: 8
+"I have a head of broccoli, four cabbages, a garlic, an onion, a yam, a potato, a carrot, and two cauliflowers.",12,7~13,Output: 11
+"I have a goat, a snail, a mouse, two fish, two bears, and a cat.",8,7~13,Output: 8
+"I have a head of broccoli, a stalk of celery, a potato, a carrot, a cauliflower, a lettuce head, a yam, a cabbage, and a garlic.",9,7~13,Output: 9
+"I have a strawberry, two plums, a peach, a nectarine, a grape, an apple, a banana, and an orange.",9,7~13,Output: 9
+"I have a flute, a violin, two trombones, a trumpet, and two accordions.",7,7~13,Output: 7
+"I have two toasters, five cars, and a lamp.",8,7~13,Output: 8
+"I have a peach, a stalk of celery, a banana, four apples, and a nectarine.",8,7~13,Output: 8
+"I have a bed, two couches, an oven, a toaster, two stoves, a microwave, two chairs, a lamp, and a table.",12,7~13,Output: 11
+"I have a bed, a stove, a couch, three ovens, a fridge, a table, three lamps, and a microwave.",12,7~13,Output: 11
+"I have a head of broccoli, three cauliflowers, a stalk of celery, a potato, a yam, a garlic, three cabbages, and a lettuce head.",12,7~13,Output: 11
+"I have a carrot, a cauliflower, two garlics, a lettuce head, a stalk of celery, a yam, two potatoes, and an onion.",10,7~13,Output: 10
+"I have a trombone, a piano, two flutes, two violins, and a trumpet.",7,7~13,Output: 7
+"I have a table, two couches, a car, a microwave, a bed, an oven, a chair, a toaster, two lamps, and a stove.",12,7~13,Output: 11
+"I have a drum, a trombone, three donkeys, two rabbits, a flute, and a piano.",9,7~13,Output: 8
+"I have a garlic, an onion, a yam, two potatoes, a carrot, a lettuce head, a cauliflower, a head of broccoli, and a stalk of celery.",10,7~13,Output: 10
+"I have a strawberry, a head of broccoli, a lettuce head, a blackberry, a garlic, a carrot, an orange, a yam, an onion, and a cauliflower.",10,7~13,Output: 10
+"I have an onion, a head of broccoli, two stalks of celery, a lettuce head, a cabbage, and a garlic.",7,7~13,Output: 7
+"I have a blackberry, two oranges, a grape, and five nectarines.",9,7~13,Output: 9
+"I have an apple, a violin, a peach, a raspberry, a grape, a blackberry, and an orange.",7,7~13,Output: 7
+"I have a rabbit, a cow, a banana, a snail, a chicken, three apples, a fish, and three dogs.",12,7~13,Output: 11
+"I have three couches, a car, a table, a chair, a fridge, a toaster, and an oven.",9,7~13,Output: 9
+"I have an accordion, a piano, two trombones, a drum, a flute, three trumpets, a violin, and a clarinet.",11,7~13,Output: 10
+"I have a plum, two apples, two blackberries, a raspberry, a chicken, a strawberry, and an orange.",9,7~13,Output: 9
+"I have an oven, three stoves, a chair, three cars, and a couch.",9,7~13,Output: 9
+"I have a potato, three cabbages, a carrot, two stalks of celery, a cauliflower, a drum, and a head of broccoli.",10,7~13,Output: 9
+"I have a clarinet, a trumpet, a piano, a flute, a trombone, an accordion, and a violin.",7,7~13,Output: 7
+"I have a trombone, a piano, a drum, an accordion, a clarinet, a violin, a trumpet, and a flute.",8,7~13,Output: 8
+"I have a banana, a plum, a nectarine, a strawberry, a blackberry, a raspberry, an orange, and a peach.",8,7~13,Output: 8
+"I have two drums, an accordion, a clarinet, a piano, a trumpet, two violins, three flutes, and a trombone.",12,7~13,Output: 11
+"I have a grape, a peach, three bananas, two plums, two apples, a strawberry, and a nectarine.",11,7~13,Output: 10
+"I have a blackberry, a peach, a trumpet, an orange, a grape, a strawberry, two pianos, and an apple.",9,7~13,Output: 9
+"I have a clarinet, a piano, two trumpets, four accordions, a flute, a violin, a drum, and a trombone.",12,7~13,Output: 11
+"I have a lamp, two stoves, a fridge, an oven, three chairs, and a couch.",9,7~13,Output: 9
+"I have a carrot, a yam, a cabbage, a head of broccoli, a cauliflower, a car, a potato, a lettuce head, an onion, a garlic, a microwave, and a stalk of celery.",12,7~13,Output: 12
+"I have a cabbage, two onions, two stalks of celery, a lettuce head, and a yam.",7,7~13,Output: 7
+"I have a cat, a cow, a snail, a rabbit, two fish, and a frog.",7,7~13,Output: 7
+"I have three flutes, a trombone, a violin, a toaster, and a piano.",7,7~13,Output: 7
+"I have an apple, a grape, a blackberry, an onion, two strawberries, an orange, a peach, and a plum.",9,7~13,Output: 9
+"I have a snake, a frog, a cow, a lamp, a chicken, a bear, a goat, three ducks, and a fish.",11,7~13,Output: 11
+"I have three nectarines, a peach, a blackberry, a grape, an apple, and a plum.",8,7~13,Output: 9
+"I have a plum, a strawberry, a banana, a nectarine, a raspberry, an orange, and a peach.",7,7~13,Output: 7
+"I have three stoves, a table, five toasters, a couch, and a fridge.",11,7~13,Output: 11
+"I have three ovens, a toaster, a stove, a chair, a microwave, two fridges, and a table.",10,7~13,Output: 9
+"I have four cabbages, a lettuce head, a stalk of celery, a frog, a fish, a carrot, and a cow.",10,7~13,Output: 9
+"I have a dog, a chicken, a mouse, a fish, two donkeys, and three pigs.",9,7~13,Output: 9
+"I have a violin, five clarinets, a trumpet, a trombone, a piano, two flutes, and a drum.",12,7~13,Output: 11
+"I have a stalk of celery, a garlic, five onions, a lettuce head, and a carrot.",9,7~13,Output: 8
+"I have a goat, an apple, a bear, a mouse, a snake, a blackberry, and four raspberries.",10,7~13,Output: 9
+"I have a mouse, a rabbit, a donkey, a cow, a chicken, four cats, a bear, and a goat.",11,7~13,Output: 10
+"I have three cabbages, a yam, a cauliflower, a head of broccoli, a potato, a garlic, and an onion.",9,7~13,Output: 9
+"I have a grape, a clarinet, three plums, a raspberry, and a trombone.",7,7~13,Output: 7
+"I have two stalks of celery, a cauliflower, a potato, a cabbage, and two garlics.",7,7~13,Output: 7

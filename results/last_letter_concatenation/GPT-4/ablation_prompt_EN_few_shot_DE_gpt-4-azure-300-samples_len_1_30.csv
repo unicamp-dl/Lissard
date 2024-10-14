@@ -1,0 +1,301 @@
+input,out,len,bins,pred,total-tokens,prompt-tokens,completion-tokens
+Stefan Joachim Monika Uwe Bernd Dirk Philipp Angelika Hans Anja Jürgen Jürgen Anna Markus Birgit Jan Sabine Ralph,n m a e d k p a s a n n a s t n e h,18,15~22,Output: n m a e d k p a s a n n a s t n e h,212,192,20
+Sabine Kerstin Heike Birgit Petra Brigitte Martina Anja Rainer Ute Bärbel Wolfgang Heike Hans Hans Wolfgang Susanne Jutta,e n e t a e a a r e l g e s s g e a,18,15~22,Output: e n e t a e a r e l g e s s g e e a,212,192,20
+Stefanie Monika Wolfgang Jörg Martina Stefan Thomas Uwe Martina Bernd Manfred Bernd Sven Katharina Kerstin Philipp Ralph Angelika Dirk,e a g g a n s e a d d d n a n p h a k,19,15~22,Output: e a g g a n s e a d d d n a n p h a k,214,193,21
+Thomas Heike Bettina Uwe Jens Stefan Jens Jörg Klaus Heike Stefan Markus Heike Angelika Sabine Martina Kerstin Ivonne Markus Bernd,s e a e s n s g s e n s e a e a n e s d,20,15~22,Output: s e a e s n s g s e n s e a e a a n e s d,215,192,23
+Bernd Manfred Hans Brigitte Katharina Jan Sven Anja Birgit Karin Philipp Matthias Katharina Jutta Martina Anja Stefanie Ralph Jörg,d d s e a n n a t n p s a a a a e h g,19,15~22,Output: d d s e a n n a n p s a a a e h g,215,196,19
+Markus Bärbel Ivonne Philipp Sabine Stefanie Petra Jörg Bettina Ute Ulrike Heike Markus Joachim Dirk Ralph Susanne Sabine Uwe Markus Thorsten,s l e p e e a g a e e e s m k h e e e s n,21,15~22,Output: s l e p e e a g a e e e s m k h e e e n,219,197,22
+Stefan Monika Anja Bärbel Karin Markus Jörg Birgit Sabine Brigitte Martina Thomas Jörg Philipp Birgit Uwe Jan Bettina Anja Heike,n a a l n s g t e e a s g p t e n a a e,20,15~22,Output: n a a l n s g t e e a s g p t e n a e,219,198,21
+Jan Bettina Katharina Angelika Katharina Petra Manfred Uwe Jörg Jürgen Sven Stefan Ralph Stefanie Sabine Klaus Susanne Uwe Stefanie Bernd Klaus,n a a a a a d e g n n n h e e s e e e d s,21,15~22,Output: n a a a a a d e g n n n h e e s e e e d s,223,200,23
+Ulrike Dirk Philipp Jürgen Sven Rainer Klaus Anna Brigitte Stefanie Hans Anja Jörg Monika Bettina Matthias Monika Dirk Philipp Ralph,e k p n n r s a e e s a g a a s a k p h,20,15~22,Output: e k p n n r s a e e s a g a a s a k p h,216,194,22
+Manfred Wolfgang Angelika Martina Stefan Joachim Brigitte Manfred Ivonne Angelika Katharina Stefanie Hans Anja Jan Petra,d g a a n m e d e a a e s a n a,16,15~22,Output: d g a a n m e d e a a e s a n a,207,189,18
+Wolfgang Anja Monika Katharina Birgit Klaus Rainer Anna Susanne Katharina Jens Anja Heike Birgit Ulrike,g a a a t s r a e a s a e t e,15,15~22,Output: g a a a t s r a e a s a e t e,204,187,17
+Jan Brigitte Manfred Matthias Heike Jutta Jürgen Bärbel Karin Susanne Dirk Bernd Anja Jörg Katharina Jutta Joachim Birgit Philipp Bernd Ralph,n e d s e a n l n e k d a g a a m t p d h,21,15~22,Output: n e d s e a n l n e k d a g a a m t p d h,226,203,23
+Anna Philipp Petra Jörg Jens Brigitte Angelika Jörg Karin Bärbel Rainer Joachim Bettina Hans Jörg Matthias Ralph Birgit,a p a g s e a g n l r m a s g s h t,18,15~22,Output: a p a g s e a g n l r m a s g s h t,214,194,20
+Wolfgang Heike Hans Jens Martina Anna Matthias Susanne Anja Jens Jutta Petra Monika Stefan Monika Angelika Bernd Heike Jörg Uwe Bettina,g e s s a a s e a s a a a n a a d e g e a,21,15~22,Output: g e s s a a s e a s a a a n a a d e g e a a,218,194,24
+Ute Stefan Ute Monika Susanne Thorsten Birgit Bettina Jens Brigitte Heike Jörg Thorsten Hans Ralph Susanne Philipp Katharina Brigitte Ralph,e n e a e n t a s e e g n s h e p a e h,20,15~22,Output: e n e a e n t a s e e g n s h p a e h,218,197,21
+Ute Karin Wolfgang Dirk Stefan Anna Jürgen Hans Bettina Monika Jan Katharina Markus Ivonne Ute Bettina Hans Sven Thorsten,e n g k n a n s a a n a s e e a s n n,19,15~22,Output: e n g k n a n s a a n a s e e a s n n,213,192,21
+Stefan Rainer Jan Bärbel Anna Dirk Sven Jürgen Sven Klaus Heike Bernd Bernd Stefanie Klaus Stefan Markus Monika Karin Thomas Anna,n r n l a k n n n s e d d e s n s a n s a,21,15~22,Output: n r n l a k n n s s e d d e s n s a a,215,194,21
+Ralph Karin Uwe Hans Manfred Thomas Karin Sven Rainer Jürgen Stefan Thorsten Anja Manfred Ulrike Heike,h n e s d s n n r n n n a d e e,16,15~22,Output: h n e s d s n r n n n a d e e,206,189,17
+Ivonne Sabine Philipp Dirk Katharina Uwe Katharina Jörg Klaus Ivonne Kerstin Jörg Stefan Heike Thorsten Katharina,e e p k a e a g s e n g n e n a,16,15~22,Output: e e p k a e a g s e n g n e n a,210,192,18
+Jan Bärbel Karin Hans Hans Sabine Sven Anja Jürgen Heike Ulrike Heike Bettina Heike Jörg Bettina Ivonne Jan Kerstin Dirk Karin,n l n s s e n a n e e e a e g a e n n k n,21,15~22,Output: n l n s s e n a n e e e a e g a e n n n k n,224,200,24
+Jutta Klaus Dirk Heike Bärbel Hans Jan Wolfgang Stefanie Hans Jutta Jan Joachim Birgit Sven Birgit Hans Karin,a s k e l s n g e s a n m t n t s n,18,15~22,Output: a s k e l s n g e s a n m t n t s n,209,189,20
+Monika Kerstin Bärbel Angelika Philipp Ute Joachim Sabine Rainer Ivonne Anja Dirk Stefan Uwe Bernd Hans Susanne,a n l a p e m e r e a k n e d s e,17,15~22,Output: a n l a p e m e r e a k n e d s e,210,191,19
+Uwe Jörg Monika Susanne Susanne Jan Birgit Katharina Joachim Birgit Angelika Rainer Philipp Brigitte Stefan Ivonne Karin Markus Jens Jörg,e g a e e n t a m t a r p e n e n s s g,20,15~22,Output: e g a e e n t a m t a r p e n e n s s g,221,199,22
+Philipp Bettina Susanne Bernd Brigitte Bärbel Kerstin Monika Jörg Petra Thomas Sabine Dirk Anna Stefan,p a e d e l n a g a s e k a n,15,15~22,Output: p a e d e l n a g a s e k a n,203,186,17
+Katharina Katharina Uwe Philipp Anja Petra Joachim Jürgen Jörg Heike Stefanie Heike Anna Stefanie Rainer,a a e p a a m n g e e e a e r,15,15~22,Output: a a e p a a m n g e e e a e r,209,192,17
+Bettina Susanne Kerstin Sven Manfred Angelika Ivonne Angelika Stefanie Thomas Klaus Sabine Bettina Anja Anna Jutta Dirk Ute Susanne,a e n n d a e a e s s e a a a a k e e,19,15~22,Output: a e n n d a e a e s s e a a a a k e e,214,193,21
+Brigitte Ute Sabine Susanne Bettina Ulrike Martina Ute Anja Markus Karin Stefanie Jens Thorsten Kerstin Karin Ralph Bärbel Philipp Jan,e e e e a e a e a s n e s n n n h l p n,20,15~22,Output: e e e e a e a e a s n e s n n n h l p n,218,196,22
+Jürgen Kerstin Anja Klaus Katharina Jan Manfred Joachim Petra Philipp Angelika Ute Stefanie Joachim Katharina Brigitte,n n a s a n d m a p a e e m a e,16,15~22,Output: n n a s a n d m a p a e e m a e,212,194,18
+Ulrike Petra Ivonne Jens Joachim Katharina Hans Thorsten Kerstin Heike Ivonne Joachim Rainer Thomas Bärbel Petra Ulrike Matthias Karin Sabine Jürgen,e a e s m a s n n e e m r s l a e s n e n,21,15~22,Output: e a e s m a s n e e e m r s l a e s n e n,224,201,23
+Manfred Katharina Thorsten Bettina Wolfgang Heike Anna Jan Jens Ivonne Thomas Bärbel Monika Jan Hans Brigitte Anna Ulrike Martina Jörg,d a n a g e a n s e s l a n s e a e a g,20,15~22,Output: d a n a g e a n s e s l a n s e a e a g,217,195,22
+Anna Ralph Martina Anna Markus Angelika Kerstin Heike Katharina Klaus Brigitte Brigitte Sabine Wolfgang Petra Jürgen Dirk,a h a a s a n e a s e e e g a n k,17,15~22,Output: a h a a s a n e a s e e e g a n k,209,190,19
+Jan Bettina Martina Ivonne Ivonne Bärbel Monika Jens Heike Hans Bernd Ute Jan Martina Anja Birgit Kerstin Rainer Brigitte,n a a e e l a s e s d e n a a t n r e,19,15~22,Output: n a a e e l a s e s d e n a a t n r e,216,195,21
+Sven Jürgen Markus Ute Stefan Monika Ulrike Uwe Stefan Joachim Manfred Ivonne Birgit Klaus Jens Ralph,n n s e n a e e n m d e t s s h,16,15~22,Output: n n s e n a e e n m d e t s s h,206,188,18
+Joachim Sabine Bernd Katharina Stefanie Stefan Jens Bärbel Anna Angelika Jan Sabine Martina Ivonne Sabine Petra Stefan Kerstin,m e d a e n s l a a n e a e e a n n,18,15~22,Output: m e d a e n s l a a n e a e e a n,211,192,19
+Joachim Uwe Jens Heike Ute Sabine Ralph Ulrike Stefan Bernd Jens Uwe Sven Thomas Philipp Sabine Jens Thorsten Ralph Petra,m e s e e e h e n d s e n s p e s n h a,20,15~22,Output: m e s e e e h e n d s e n s p e s n h a,213,191,22
+Matthias Ulrike Ralph Katharina Karin Anna Manfred Katharina Katharina Birgit Rainer Thomas Sven Susanne Jutta,s e h a n a d a a t r s n e a,15,15~22,Output: s e h a n a d a a t r s n e a,205,188,17
+Ralph Monika Sabine Bärbel Thomas Bärbel Manfred Rainer Jens Stefan Anja Heike Kerstin Jörg Jan Joachim Jan Bettina,h a e l s l d r s n a e n g n m n a,18,15~22,Output: h a e l s l d r s n a e n g n m n a,213,193,20
+Jan Sabine Katharina Ulrike Angelika Stefan Bettina Katharina Kerstin Manfred Bettina Ivonne Brigitte Jens Heike Bärbel Bärbel Stefan Rainer Thorsten Brigitte,n e a e a n a a n d a e e s e l l n r n e,21,15~22,Output: n e a e a n a a n d a e e s e l l n r n e,226,203,23
+Katharina Thomas Klaus Dirk Bernd Stefanie Markus Angelika Klaus Uwe Bettina Stefanie Ralph Monika Markus Jörg Philipp Klaus Markus Anna,a s s k d e s a s e a e h a s g p s s a,20,15~22,Output: a s s k d e s a s e a e h a s g p s s a,212,190,22
+Joachim Angelika Anja Ulrike Jörg Markus Ulrike Petra Jürgen Dirk Ulrike Bettina Jan Ulrike Markus,m a a e g s e a n k e a n e s,15,15~22,Output: m a a e g s e a n k e a n e s,205,188,17
+Sabine Markus Jan Jens Wolfgang Klaus Rainer Philipp Jutta Jutta Karin Jürgen Klaus Jens Jutta Hans Karin Wolfgang Birgit,e s n s g s r p a a n n s s a s n g t,19,15~22,Output: e s n s g s r p a a n n s s a s n g t,210,189,21
+Angelika Rainer Ute Birgit Hans Hans Bernd Jörg Anna Susanne Angelika Petra Martina Stefanie Birgit,a r e t s s d g a e a a a e t,15,15~22,Output: a r e t s s d g a e a a e t,202,186,16
+Joachim Jutta Matthias Stefan Stefan Rainer Klaus Bernd Thomas Bärbel Monika Manfred Karin Stefan Karin Jens Sabine,m a s n n r s d s l a d n n n s e,17,15~22,Output: m a s n n r s d s l a d n n s e,206,188,18
+Sabine Ulrike Ute Brigitte Ivonne Bettina Jörg Stefan Manfred Jürgen Anna Jörg Stefan Karin Angelika Ivonne Stefanie Sven Jan Thorsten,e e e e e a g n d n a g n n a e e n n n,20,15~22,Output: e e e e e a g n d n a g n n a e e n n n,222,200,22
+Sabine Martina Birgit Ulrike Angelika Jutta Ralph Ulrike Anna Thorsten Susanne Jens Ivonne Heike Brigitte Angelika Ulrike Jürgen Birgit Rainer,e a t e a a h e a n e s e e e a e n t r,20,15~22,Output: e a t e a a h e a n e s e e e a e n t r,221,199,22
+Brigitte Stefan Katharina Susanne Anna Joachim Wolfgang Jan Birgit Anja Susanne Joachim Bettina Heike Ralph,e n a e a m g n t a e m a e h,15,15~22,Output: e n a e a m g n t a e m a e h,205,188,17
+Karin Bärbel Bärbel Philipp Stefanie Manfred Wolfgang Joachim Rainer Manfred Katharina Stefanie Ulrike Joachim Ulrike,n l l p e d g m r d a e e m e,15,15~22,Output: n l l p e d g m r d a e e m e,209,192,17
+Jörg Manfred Anna Philipp Angelika Heike Wolfgang Jutta Karin Monika Martina Susanne Brigitte Ute Susanne Jörg Markus,g d a p a e g a n a a e e e e g s,17,15~22,Output: g d a p a e g a n a a e e e g s,210,192,18
+Monika Jan Matthias Sabine Jutta Jan Markus Uwe Bettina Monika Ralph Joachim Bettina Anna Anja Uwe Bettina Birgit,a n s e a n s e a a h m a a a e a t,18,15~22,Output: a n s e a n s e a a h m a a a e t,209,190,19
+Heike Jürgen Rainer Birgit Ralph Sven Rainer Martina Jürgen Ulrike Jürgen Katharina Monika Jens Bernd,e n r t h n r a n e n a a s d,15,15~22,Output: e n r t h n r a n e n a a s d,211,194,17
+Thomas Matthias Jens Birgit Ivonne Jan Bärbel Birgit Rainer Jan Jan Jan Monika Rainer Katharina Jan Hans Katharina Karin Kerstin,s s s t e n l t r n n n a r a n s a n n,20,15~22,Output: s s s t e n l t r n n n a r a n s a n n,215,193,22
+Kerstin Monika Kerstin Sabine Philipp Jürgen Klaus Heike Dirk Jan Wolfgang Jürgen Manfred Markus Monika Wolfgang Anna Petra Uwe,n a n e p n s e k n g n d s a g a a e,19,15~22,Output: n a n e p n s e k n g n d s a g a a e,213,192,21
+Ulrike Jutta Markus Jürgen Uwe Sven Martina Uwe Jutta Bettina Jutta Ralph Sabine Wolfgang Angelika Dirk Jutta Bettina Ulrike Ute Jörg,e a s n e n a e a a a h e g a k a a e e g,21,15~22,Output: e a s n e n a e a a a h e g a k a a a e e g,224,200,24
+Kerstin Uwe Monika Jürgen Anja Brigitte Sven Thorsten Bärbel Anja Matthias Wolfgang Stefan Ivonne Jörg Rainer Stefanie Klaus Ralph Sven,n e a n a e n n l a s g n e g r e s h n,20,15~22,Output: n e a n a e n n l a s g n e g r e s h n,221,199,22
+Brigitte Jörg Ulrike Sabine Markus Thomas Petra Sabine Ralph Klaus Brigitte Susanne Jan Bettina Katharina Katharina,e g e e s s a e h s e e n a a a,16,15~22,Output: e g e e s s a e h s e e n a a a,208,190,18
+Stefanie Ralph Petra Monika Jürgen Thomas Thorsten Philipp Markus Bernd Jens Brigitte Sabine Anja Petra Ivonne Ulrike Katharina,e h a a n s n p s d s e e a a e e a,18,15~22,Output: e h a a n s n p s d s e e a a e e a,212,192,20
+Ralph Petra Karin Wolfgang Brigitte Jürgen Hans Manfred Bärbel Jutta Monika Sabine Jürgen Thomas Ute Matthias Stefanie Thomas Martina Hans Ute,h a n g e n s d l a a e n s e s e s a s e,21,15~22,Output: h a n g e n s d l a a e n s e s s a s e,221,199,22
+Joachim Bernd Karin Joachim Angelika Martina Dirk Jutta Ute Joachim Ulrike Uwe Jutta Birgit Ulrike Jörg Martina Dirk Bettina,m d n m a a k a e m e e a t e g a k a,19,15~22,Output: m d n m a a k a e m e e a t e g a k a a,221,199,22
+Jutta Jutta Jens Joachim Jutta Jan Rainer Anna Joachim Markus Uwe Martina Stefanie Monika Heike Jens Sabine Thorsten,a a s m a n r a m s e a e a e s e n,18,15~22,Output: a a s m a n r a m s e a e a e s e n,212,192,20
+Heike Joachim Katharina Birgit Susanne Matthias Hans Jens Matthias Kerstin Ivonne Katharina Joachim Wolfgang Jörg Martina Monika,e m a t e s s s s n e a m g g a a,17,15~22,Output: e m a t e s s s s e a m g g a a,211,193,18
+Susanne Stefan Kerstin Markus Ralph Sven Ralph Kerstin Ivonne Stefan Manfred Monika Jürgen Martina Klaus Markus Wolfgang Birgit,e n n s h n h n e n d a n a s s g t,18,15~22,Output: e n n s h n h n e n d a n a s s g t,209,189,20
+Wolfgang Jens Manfred Manfred Stefanie Ute Bernd Klaus Thorsten Ivonne Jutta Philipp Sven Joachim Sabine Sabine Dirk Jürgen Jens Thorsten Karin,g s d d e e d s n e a p n m e e k n s n n,21,15~22,Output: g s d d e e d s n e a p n m e e k n s n n,221,198,23
+Uwe Ute Rainer Joachim Kerstin Brigitte Thomas Anna Philipp Wolfgang Bärbel Anna Bernd Martina Rainer Manfred,e e r m n e s a p g l a d a r d,16,15~22,Output: e e r m n e s a p g l a d a d d,207,189,18
+Susanne Ulrike Jörg Brigitte Stefanie Karin Bärbel Thomas Markus Klaus Markus Sven Monika Jens Sven Jörg Heike Jörg Kerstin,e e g e e n l s s s s n a s n g e g n,19,15~22,Output: e e g e e n l s s s n a s n g e g n,217,197,20
+Rainer Thorsten Karin Klaus Jörg Sabine Thomas Jürgen Ralph Bärbel Bernd Bettina Jürgen Jörg Uwe Monika Jürgen Stefan Klaus,r n n s g e s n h l d a n g e a n n s,19,15~22,Output: r n n s g e s n h l d a n g e a n n s,222,201,21
+Karin Bärbel Birgit Susanne Anna Sven Jürgen Monika Rainer Bettina Ulrike Anna Matthias Klaus Anna Jürgen Karin Uwe Martina Bernd,n l t e a n n a r a e a s s a n n e a d,20,15~22,Output: n l t e a n n a r a e a s s a n n e a d,221,199,22
+Matthias Stefanie Stefan Dirk Matthias Anja Heike Philipp Matthias Jan Bernd Katharina Thomas Jan Jan Birgit,s e n k s a e p s n d a s n n t,16,15~22,Output: s e n k s a e p s n d a s n n t,200,182,18
+Monika Angelika Stefanie Bettina Uwe Katharina Petra Brigitte Rainer Joachim Joachim Wolfgang Stefan Ralph Matthias,a a e a e a a e r m m g n h s,15,15~22,Output: a a e a e a a e r m m g n h s,205,188,17
+Philipp Klaus Heike Ralph Martina Rainer Kerstin Angelika Jürgen Markus Jörg Ivonne Birgit Wolfgang Anja Rainer Bernd Jutta Brigitte Matthias,p s e h a r n a n s g e t g a r d a e s,20,15~22,Output: p s e h a r n a n s g e t g a r d a e s,219,197,22
+Brigitte Susanne Martina Ulrike Birgit Anna Philipp Uwe Jens Hans Philipp Katharina Birgit Heike Wolfgang Martina Jutta,e e a e t a p e s s p a t e g a a,17,15~22,Output: e e a e t a p e s s p a t e g a a,208,189,19
+Bernd Sven Uwe Stefanie Ute Stefan Jürgen Stefanie Jörg Jutta Bärbel Jörg Bärbel Thorsten Dirk Ulrike Rainer Jutta Manfred,d n e e e n n e g a l g l n k e r a d,19,15~22,Output: d n e e e n n e g a l g l n k e r a d,222,201,21
+Karin Thorsten Heike Monika Thorsten Markus Martina Bettina Bernd Karin Karin Jutta Ulrike Jan Petra Jens,n n e a n s a a d n n a e n a s,16,15~22,Output: n n e a n s a a d n n a e n a s,205,187,18
+Monika Stefanie Ralph Wolfgang Bernd Sven Martina Susanne Uwe Martina Bernd Matthias Matthias Jutta Philipp Katharina Jürgen,a e h g d n a e e a d s s a p a n,17,15~22,Output: a e h g d n a e e a d s s a p a n,210,191,19
+Jörg Hans Jutta Jürgen Martina Jörg Anja Martina Jan Uwe Stefanie Karin Manfred Stefan Bärbel,g s a n a g a a n e e n d n l,15,15~22,Output: g s a n a g a a n e e n d n l,208,191,17
+Jan Bettina Manfred Jörg Ralph Bettina Bernd Ralph Bettina Monika Markus Katharina Jutta Ute Bärbel Matthias Ulrike Dirk Ute Manfred,n a d g h a d h a a s a a e l s e k e d,20,15~22,Output: n a d g h a d h a a s a a e l s e k e d,218,196,22
+Hans Stefan Jutta Jan Karin Anja Katharina,s n a n n a a,7,1~8,Output: s n a n n a a,180,171,9
+Uwe Sabine Jens Stefanie,e e s e,4,1~8,Output: e e s e,172,166,6
+Martina Monika,a a,2,1~8,Output: a a,167,163,4
+Bettina Hans Manfred Jörg Brigitte Markus Martina,a s d g e s a,7,1~8,Output: a s d g e s a,182,173,9
+Wolfgang Sven Bettina Susanne,g n a e,4,1~8,Output: g n a e,172,166,6
+Heike Heike,e e,2,1~8,Output: e e,167,163,4
+Sabine Angelika Martina Manfred Markus,e a a d s,5,1~8,Output: e a a d s,175,168,7
+Jens Ivonne Karin Monika Jan Thomas,s e n a n s,6,1~8,Output: s e n a n s,176,168,8
+Ulrike Jürgen Susanne Petra Thomas Ralph Bettina,e n e a s h a,7,1~8,Output: e n e a s h a,181,172,9
+Katharina Bettina Manfred,a a d,3,1~8,Output: a a d,171,166,5
+Bärbel Kerstin Heike,l n e,3,1~8,Output: l n e,171,166,5
+Petra Bettina,a a,2,1~8,Output: a a,166,162,4
+Jörg Hans Uwe Jan Stefanie,g s e n e,5,1~8,Output: g s e n e,175,168,7
+Bettina Philipp Ulrike,a p e,3,1~8,Output: a p e,169,164,5
+Petra Jens Ulrike Petra,a s e a,4,1~8,Output: a s e a,170,164,6
+Stefan Thorsten,n n,2,1~8,Output: n n,166,162,4
+Wolfgang Manfred Philipp Klaus Angelika Uwe,g d p s a e,6,1~8,Output: g d p s a e,176,168,8
+Klaus Martina,s a,2,1~8,Output: s a,166,162,4
+Ulrike Anja Sven Jörg Thomas Birgit,e a n g s t,6,1~8,Output: e a n g s t,179,171,8
+Ivonne Bernd Jürgen Thomas Jörg Klaus,e d n s g s,6,1~8,Output: e d n s g s,180,172,8
+Jörg Matthias Monika Bärbel Katharina Stefan Anja,g s a l a n a,7,1~8,Output: g s a l a n a,183,174,9
+Stefan Anna Brigitte Anna,n a e a,4,1~8,Output: n a e a,171,165,6
+Karin Monika Jens Joachim Martina Jutta Jan,n a s m a a n,7,1~8,Output: n a s m a a n,181,172,9
+Ivonne Anja,e a,2,1~8,Output: e a,167,163,4
+Thomas Ralph Jan Petra Susanne,s h n a e,5,1~8,Output: s h n a e,172,165,7
+Uwe Ulrike,e e,2,1~8,Output: e e,167,163,4
+Ivonne Angelika Ulrike Kerstin,e a e n,4,1~8,Output: e a e n,173,167,6
+Kerstin Joachim Stefanie Jan Rainer Monika Kerstin,n m e n r a n,7,1~8,Output: n m e n r a n,182,173,9
+Thomas Kerstin Brigitte Jürgen Thorsten,s n e n n,5,1~8,Output: s n e n n,178,171,7
+Birgit Katharina Brigitte Hans Uwe Wolfgang Jutta,t a e s e g a,7,1~8,Output: t a e s e g a,182,173,9
+Markus Jürgen,s n,2,1~8,Output: s n,168,164,4
+Jan Jens Angelika Jan Martina Anja Bettina,n s a n a a a,7,1~8,Output: n s a n a a a,179,170,9
+Bettina Ulrike Wolfgang Thomas Philipp Martina,a e g s p a,6,1~8,Output: a e g s p a,176,168,8
+Sabine Bärbel Thomas Wolfgang Jens,e l s g s,5,1~8,Output: e l s g s,174,167,7
+Susanne Bettina,e a,2,1~8,Output: e a,167,163,4
+Kerstin Dirk Jörg Manfred Stefanie Susanne,n k g d e e,6,1~8,Output: n k g d e e,179,171,8
+Katharina Dirk,a k,2,1~8,Output: a k,167,163,4
+Kerstin Rainer Bärbel Heike Jens Dirk Anna,n r l e s k a,7,1~8,Output: n r l e s k a,180,171,9
+Sabine Ivonne Matthias Matthias Birgit,e e s s t,5,1~8,Output: e e s s t,174,167,7
+Jens Philipp Jan,s p n,3,1~8,Output: s p n,167,162,5
+Wolfgang Anja Thomas Ute Ulrike Birgit Jörg,g a s e e t g,7,1~8,Output: g a s e e t g,181,172,9
+Dirk Ralph Anna Brigitte Angelika,k h a e a,5,1~8,Output: k h a e a,174,167,7
+Wolfgang Bernd Markus Ute Martina Wolfgang Karin,g d s e a g n,7,1~8,Output: g d s e a g n,179,170,9
+Birgit Wolfgang,t g,2,1~8,Output: t g,166,162,4
+Jens Hans Anja Jutta Anna Karin,s s a a a n,6,1~8,Output: s s a a a n,176,168,8
+Ivonne Katharina Karin Heike,e a n e,4,1~8,Output: e a n e,174,168,6
+Jan Bernd Thomas,n d s,3,1~8,Output: n d s,168,163,5
+Manfred Matthias Thomas Jens Jan,d s s s n,5,1~8,Output: d s s s n,172,165,7
+Rainer Ute Katharina Ulrike Sven,r e a e n,5,1~8,Output: r e a e n,177,170,7
+Jörg Petra,g a,2,1~8,Output: g a,167,163,4
+Katharina Brigitte Jörg Ulrike Kerstin Joachim,a e g e n m,6,1~8,Output: a e g e n m,183,175,8
+Birgit Thomas Stefan Manfred Bettina,t s n d a,5,1~8,Output: t s n d a,174,167,7
+Sven Monika Stefan Hans Thorsten,n a n s n,5,1~8,Output: n a n s n,174,167,7
+Kerstin Dirk Manfred,n k d,3,1~8,Output: n k d,169,164,5
+Bernd Rainer Matthias,d r s,3,1~8,Output: d r s,169,164,5
+Brigitte Joachim,e m,2,1~8,Output: e m,169,165,4
+Bärbel Matthias Birgit Brigitte Jan,l s t e n,5,1~8,Output: l s t e n,176,169,7
+Thorsten Anja Kerstin,n a n,3,1~8,Output: n a n,170,165,5
+Ralph Jürgen Bettina,h n a,3,1~8,Output: h n a,171,166,5
+Bärbel Klaus Dirk Susanne,l s k e,4,1~8,Output: l s k e,172,166,6
+Dirk Ulrike,k e,2,1~8,Output: k e,166,162,4
+Thorsten Stefanie Philipp Jan Bettina Jan Thomas,n e p n a n s,7,1~8,Output: n e p n a n s,178,169,9
+Jens Sven,s n,2,1~8,Output: s n,166,162,4
+Stefanie Ralph Wolfgang Stefan Brigitte,e h g n e,5,1~8,Output: e h g n e,174,167,7
+Susanne Monika Sabine,e a e,3,1~8,Output: e a e,170,165,5
+Thorsten Thorsten,n n,2,1~8,Output: n n,167,163,4
+Susanne Katharina Anna Bernd Karin Bernd,e a a d n d,6,1~8,Output: e a a d n d,179,171,8
+Manfred Jutta Bettina Bernd Susanne Anja,d a a d e a,6,1~8,Output: d a a d e a,179,171,8
+Hans Jutta Heike Bärbel Ralph Jens,s a e l h s,6,1~8,Output: s a e l h s,177,169,8
+Dirk Stefan Philipp Petra Angelika,k n p a a,5,1~8,Output: k n p a a,172,165,7
+Angelika Manfred Monika Bernd,a d a d,4,1~8,Output: a d a d,173,167,6
+Jürgen Ivonne Matthias Kerstin Bärbel Manfred,n e s n l d,6,1~8,Output: n e s n l d,181,173,8
+Jan Manfred Matthias Sabine Joachim,n d s e m,5,1~8,Output: n d s e m,175,168,7
+Stefan Matthias Brigitte Angelika,n s e a,4,1~8,Output: n s e a,172,166,6
+Bernd Ute Jens,d e s,3,1~8,Output: d e s,169,164,5
+Dirk Uwe Sabine Jutta Manfred Ralph Angelika Sabine Rainer Wolfgang Thorsten Wolfgang Jörg Bettina Ute Jörg Anja Matthias Wolfgang Bärbel Petra Joachim Markus Anja Thorsten Susanne Monika Bettina,k e e a d h a e r g n g g a e g a s g l a m s a n e a a,28,22~30,Output: k e e a d h a e r g n g g a e g a s g l a m s a n e a t a,242,211,31
+Katharina Jörg Klaus Manfred Bettina Bärbel Jürgen Brigitte Jens Jens Ute Petra Bärbel Susanne Angelika Katharina Ulrike Anja Bärbel Monika Heike Kerstin Anna Jürgen Bärbel Uwe,a g s d a l n e s s e a l e a a e a l a e n a n l e,26,22~30,Output: a g s d a l n e s s e a l e a a e a l a e e n a n e e,247,218,29
+Thomas Ute Martina Bernd Jörg Rainer Martina Bernd Jörg Manfred Uwe Ulrike Bärbel Bärbel Jürgen Thorsten Ralph Jens Monika Jutta Brigitte Jens Anja Jörg Karin Petra Rainer,s e a d g r a d g d e e l l n n h s a a e s a g n a r,27,22~30,Output: s e a d g r a d g d e e l l n n h s a s a e s a g n a r,246,216,30
+Jan Susanne Ute Thomas Birgit Jürgen Dirk Sabine Susanne Klaus Jutta Brigitte Jan Klaus Jan Bernd Stefan Klaus Jan Ulrike Rainer Sven Birgit Jutta Katharina Heike Sabine Thorsten Sabine,n e e s t n k e e s a e n s n d n s n e r n t a a e e n e,29,22~30,Output: n e e s t n k e e s a e n s n d n s n e r n t a a e e n e,242,211,31
+Anja Anna Matthias Bernd Birgit Sabine Brigitte Bettina Jan Brigitte Jürgen Ivonne Birgit Stefanie Matthias Thorsten Jan Ulrike Wolfgang Karin Wolfgang Dirk,a a s d t e e a n e n e t e s n n e g n g k,22,22~30,Output: a a s d t e e a n e n e t e s n n e g n g k g k,225,199,26
+Jan Petra Markus Karin Katharina Anna Jürgen Thomas Hans Bernd Bettina Matthias Kerstin Stefanie Bärbel Manfred Jan Bernd Bettina Rainer Stefanie Heike Bettina Wolfgang,n a s n a a n s s d a s n e l d n d a r e e a g,24,22~30,Output: n a s n a a n s s d a s n e l d n d a r e e a g,228,202,26
+Philipp Manfred Jens Jens Uwe Jutta Bernd Bernd Anna Joachim Brigitte Uwe Philipp Hans Heike Bärbel Joachim Sven Martina Ivonne Wolfgang Bärbel,p d s s e a d d a m e e p s e l m n a e g l,22,22~30,Output: p d s s e a d d a m e e p s e l m n a g l,224,201,23
+Dirk Bernd Angelika Anja Birgit Susanne Kerstin Petra Jörg Jutta Petra Katharina Susanne Rainer Thorsten Karin Ulrike Karin Dirk Ivonne Sabine Anna Ute Brigitte Matthias Bettina,k d a a t e n a g a a a e r n n e n k e e a e e s a,26,22~30,Output: k d a a t e n a g a a e r n n e n k e a a e a e s a a e s a,240,208,32
+Sabine Rainer Monika Jürgen Ralph Angelika Markus Wolfgang Anja Bettina Dirk Birgit Sven Markus Monika Anja Jan Markus Rainer Jan Susanne Sven Philipp Heike Markus Dirk,e r a n h a s g a a k t n s a a n s r n e n p e s k,26,22~30,Output: e r a n h a s g a a k t n s a a n s e n p e s k,228,202,26
+Jan Manfred Jörg Jörg Brigitte Kerstin Karin Sven Jens Klaus Bärbel Karin Susanne Stefanie Philipp Manfred Thomas Uwe Thorsten Markus Jutta Jürgen Markus Angelika Bernd,n d g g e n n n s s l n e e p d s e n s a n s a d,25,22~30,Output: n d g g e n n n s s l n e e p d s e n s a n d,233,208,25
+Jörg Manfred Ulrike Stefanie Kerstin Jens Sven Klaus Bettina Dirk Bernd Stefan Birgit Thomas Jan Bettina Manfred Bettina Petra Sven Sven Stefan Bettina Stefan,g d e e n s n s a k d n t s n a d a a n n n a n,24,22~30,Output: g d e e n s n s a k d n t s n a d a a n n a n,224,199,25
+Klaus Sven Ivonne Ivonne Anna Katharina Ulrike Rainer Angelika Brigitte Wolfgang Thomas Monika Ute Karin Jürgen Jörg Stefanie Bernd Jutta Philipp Jens Martina Hans Ulrike Heike,s n e e a a e r a e g s a e n n g e d a p s a s e e,26,22~30,Output: s n e e a a e r a e g s a e n n g e d a p s a a s e,237,209,28
+Stefan Anna Karin Bernd Thomas Philipp Jan Ivonne Hans Stefanie Thorsten Thomas Petra Joachim Rainer Ute Susanne Heike Jutta Jürgen Thomas Martina Jutta Markus,n a n d s p n e s e n s a m r e e e a n s a a s,24,22~30,Output: n a n d s p n e s e n s a m r e e e a n s a a s,226,200,26
+Philipp Jens Joachim Petra Birgit Martina Bettina Ute Jan Joachim Ivonne Anja Kerstin Klaus Markus Kerstin Anna Joachim Stefanie Bernd Stefan Ulrike Jutta Hans Ivonne Karin Jürgen Anja,p s m a t a a e n m e a n s s n a m e d n e a s e n n a,28,22~30,Output: p s m a t a a e n m e a n s s a m e d n e a s e n n a,240,211,29
+Jörg Philipp Markus Ulrike Philipp Matthias Karin Philipp Jens Jens Brigitte Ralph Bärbel Stefan Anja Katharina Ralph Ivonne Anna Brigitte Ulrike Thomas Monika Sven Ralph Matthias Stefanie Ivonne,g p s e p s n p s s e h l n a a h e a e e s a n h s e e,28,22~30,Output: g p s e p s n p s s e h l n a a h e a e e e s a n h s e e,237,206,31
+Stefanie Brigitte Bettina Stefanie Joachim Monika Bettina Philipp Markus Uwe Bärbel Joachim Heike Bettina Uwe Heike Bettina Heike Ivonne Kerstin Ivonne Jürgen Anja Jürgen,e e a e m a a p s e l m e a e e a e e n e n a n,24,22~30,Output: e e a e m a a p s e l m e a e e a e e n n e n a n,240,213,27
+Stefan Uwe Ivonne Heike Jutta Bernd Jörg Thorsten Anna Jens Ivonne Sabine Katharina Jens Birgit Martina Karin Ulrike Klaus Monika Thorsten Sabine,n e e e a d g n a s e e a s t a n e s a n e,22,22~30,Output: n e e e a d g n a s e e a s t a n e s a e n,224,200,24
+Heike Bettina Sven Ralph Heike Kerstin Thorsten Brigitte Karin Rainer Thomas Petra Bernd Manfred Rainer Markus Ute Karin Martina Angelika Sabine Stefan Thomas Kerstin,e a n h e n n e n r s a d d r s e n a a e n s n,24,22~30,Output: e a n h e n n e n r s a d d r s e n a a e n s n,228,202,26
+Jürgen Sven Katharina Petra Sabine Bernd Sabine Ivonne Hans Ute Heike Birgit Stefanie Bernd Sabine Markus Rainer Uwe Thomas Ivonne Brigitte Jan,n n a a e d e e s e e t e d e s r e s e e n,22,22~30,Output: n n a a e d e e s e e t e d e s r e s e e n,226,202,24
+Jörg Susanne Jürgen Kerstin Kerstin Manfred Jörg Jens Bernd Ute Bernd Klaus Jens Wolfgang Thomas Manfred Ralph Jutta Uwe Petra Bettina Manfred Katharina Katharina Heike Martina,g e n n n d g s d e d s s g s d h a e a a d a a e a,26,22~30,Output: g e n n n d g s d e d s s g s d h a e a a d a a e a,238,210,28
+Uwe Matthias Ute Dirk Markus Wolfgang Ivonne Martina Monika Sven Brigitte Wolfgang Markus Sven Markus Brigitte Bernd Ulrike Karin Markus Jens Birgit Matthias Jutta Brigitte Heike Karin,e s e k s g e a a n e g s n s e d e n s s t s a e e n,27,22~30,Output: e s e k s g e a a n e g s n s e d e n s s t s a e e n,235,206,29
+Stefan Sabine Sven Birgit Matthias Jan Rainer Bettina Karin Ulrike Wolfgang Bärbel Karin Petra Jens Stefanie Markus Angelika Rainer Petra Anja Karin,n e n t s n r a n e g l n a s e s a r a a n,22,22~30,Output: n e n t s n r a n e g l n a s e s a a r a a n,221,196,25
+Thomas Monika Jens Thomas Petra Jutta Dirk Thomas Jan Ute Birgit Jens Sven Rainer Birgit Jürgen Kerstin Ralph Thomas Ute Ivonne Jan Rainer Rainer Jens,s a s s a a k s n e t s n r t n n h s e e n r r s,25,22~30,Output: s a s s a a k s n e t s n r t n n h s e e n r r s,226,199,27
+Anja Matthias Monika Stefan Angelika Jörg Monika Rainer Martina Susanne Sven Jutta Anna Birgit Markus Katharina Ralph Philipp Dirk Manfred Jörg Ute Uwe Bernd Matthias Monika Jan Ivonne,a s a n a g a r a e n a a t s a h p k d g e e d s a n e,28,22~30,Output: a s a n a g a r a e n a a t s a h p k d d g e e d s a n e,240,209,31
+Rainer Petra Angelika Karin Wolfgang Joachim Jens Matthias Petra Heike Jutta Kerstin Jens Petra Bettina Stefanie Jutta Heike Ralph Thomas Bettina Dirk Sven,r a a n g m s s a e a n s a a e a e h s a k n,23,22~30,Output: r a a n g m s s a e a n s a a e a e h s a k n,221,196,25
+Ivonne Martina Matthias Ivonne Dirk Sven Angelika Bettina Birgit Jürgen Wolfgang Karin Martina Monika Stefanie Jutta Thomas Klaus Bernd Manfred Anja Rainer Anna Uwe Stefan,e a s e k n a a t n g n a a e a s s d d a r a e n,25,22~30,Output: e a s e k n a a t n g n a a e a s s d d a r a e n,231,204,27
+Ivonne Ivonne Ute Uwe Wolfgang Birgit Stefan Anja Brigitte Klaus Susanne Markus Joachim Angelika Stefanie Thorsten Birgit Brigitte Martina Joachim Stefanie Martina Wolfgang Anja Manfred Stefan,e e e e g t n a e s e s m a e n t e a m e a g a d n,26,22~30,Output: e e e e g t n a e s e s m a e n t t e a m e a d n,236,209,27
+Klaus Katharina Dirk Katharina Ute Birgit Dirk Sven Markus Kerstin Stefan Birgit Markus Manfred Jürgen Kerstin Ulrike Jens Philipp Matthias Jens Angelika Sven Susanne Ulrike Ute Uwe,s a k a e t k n s n n t s d n n e s p s s a n e e e e,27,22~30,Output: s a k a e t k n s n n t s d n n s e s p s s a n e e e e,237,207,30
+Bärbel Petra Thomas Rainer Klaus Anna Rainer Jan Angelika Jutta Ralph Ulrike Monika Martina Philipp Anna Birgit Ralph Jan Stefan Monika Rainer Anja Anna Sabine Sven Anja,l a s r s a r n a a h e a a p a t h n n a r a a e n a,27,22~30,Output: l a s r s a r n a a h e a a p a t h n n a r a a e n a,231,202,29
+Martina Stefanie Thomas Birgit Jens Kerstin Ulrike Hans Thorsten Bettina Kerstin Bärbel Joachim Manfred Sabine Klaus Katharina Joachim Jörg Birgit Monika Martina Brigitte Kerstin Birgit Hans Jörg Ivonne Ulrike,a e s t s n e s n a n l m d e s a m g t a a e n t s g e e,29,22~30,Output: a e s t s n e s n a n l m d e s a m m g t a a e n t s g t s g,252,219,33
+Thomas Ulrike Matthias Sven Hans Monika Ralph Uwe Jörg Petra Kerstin Ute Dirk Matthias Hans Jan Stefan Birgit Angelika Jörg Sven Angelika Bernd Petra Dirk Jutta Jan Monika,s e s n s a h e g a n e k s s n n t a g n a d a k a n a,28,22~30,Output: s e s n s a h e g a n e k s s n a a g n a d a n a,231,204,27
+Klaus Sabine Jürgen Stefan Joachim Hans Heike Ivonne Petra Hans Joachim Anna Bernd Matthias Thomas Manfred Jens Angelika Stefanie Bernd Katharina Jens Karin Klaus Philipp Kerstin Kerstin,s e n n m s e e a s m a d s s d s a e d a s n s p n n,27,22~30,Output: s e n n m s e e a s m a d s s d s a s e d a s n s p n n,236,206,30
+Heike Jörg Jörg Sven Wolfgang Ute Birgit Ute Joachim Anna Matthias Philipp Stefanie Anja Thomas Ute Stefan Katharina Joachim Dirk Kerstin Kerstin Joachim Ralph Anna Jürgen Jürgen Susanne Stefan,e g g n g e t e m a s p e a s e n a m k n n m h a n n e n,29,22~30,Output: e g g n g e t e m a s p e a s e n a m k n n m h a n n e n,248,217,31
+Thomas Bärbel Bernd Matthias Bärbel Anna Jutta Sven Ivonne Katharina Markus Klaus Thorsten Ivonne Jens Wolfgang Martina Ivonne Anja Heike Kerstin Stefanie Martina Dirk Susanne Katharina Stefanie Stefan,s l d s l a a n e a s s n e s g a e a e n e a k e a e n,28,22~30,Output: s l d s l a a n e a s s n e s g a e e n e e n e a e n e n,241,210,31
+Bernd Petra Joachim Ute Thorsten Rainer Stefanie Jens Anna Birgit Philipp Joachim Jutta Stefanie Martina Brigitte Manfred Ulrike Bernd Thomas Joachim Jens Sabine Monika,d a m e n r e s a t p m a e a e d e d s m s e a,24,22~30,Output: d a m e n r e s a t p m a e a e d e s m s e a,230,205,25
+Hans Jens Birgit Philipp Ute Angelika Anja Monika Rainer Thomas Dirk Karin Ivonne Jörg Heike Anja Uwe Joachim Jürgen Klaus Jutta Jens Jan,s s t p e a a a r s k n e g e a e m n s a s n,23,22~30,Output: s s t p e a a a r s k n e g e a e m n s a s n,226,201,25
+Stefanie Kerstin Manfred Jens Anna Uwe Ivonne Thomas Sabine Jürgen Stefanie Ivonne Jens Ute Dirk Uwe Dirk Monika Wolfgang Kerstin Matthias Bärbel Bettina Joachim Joachim Jutta Petra Heike,e n d s a e e s e n e e s e k e k a g n s l a m m a a e,28,22~30,Output: e n d s a e e s e n e e s e k e k a g n s s l a m m a a e,242,211,31
+Bettina Brigitte Matthias Stefan Jens Thomas Stefanie Monika Klaus Susanne Matthias Susanne Sven Matthias Petra Brigitte Ralph Anna Bettina Matthias Anja Kerstin Anja Monika Katharina Matthias Kerstin,a e s n s s e a s e s e n s a e h a a s a n a a a s n,27,22~30,Output: a e s n s s e a s e s e n s a e h a a s a n a a a s n,233,204,29
+Kerstin Sabine Ute Katharina Stefanie Manfred Brigitte Angelika Bernd Markus Heike Jörg Thorsten Matthias Angelika Bernd Thorsten Anna Kerstin Anna Bärbel Monika Dirk Markus Kerstin Ulrike Jürgen Heike,n e e a e d e a d s e g n s a d n a n a l a k s n e n e,28,22~30,Output: n e e a e d e a d s e g n s a d n a n a l a k s n e n,244,215,29
+Angelika Sven Joachim Jan Anja Klaus Stefanie Joachim Manfred Matthias Jens Thorsten Klaus Ivonne Martina Bernd Bärbel Heike Bärbel Jens Martina Anna Sabine Stefan Sabine Ralph Bettina Joachim Bärbel,a n m n a s e m d s s n s e a d l e l s a a e n e h a m l,29,22~30,Output: a n m n a s e m d s s n s e a d l e l s a a e n e h a m l,245,214,31
+Katharina Ivonne Ralph Stefan Katharina Ivonne Sven Thomas Ulrike Monika Susanne Wolfgang Ulrike Petra Brigitte Heike Angelika Jörg Jürgen Bärbel Klaus Brigitte,a e h n a e n s e a e g e a e e a g n l s e,22,22~30,Output: a e h n a e n s e a e g e a e e a g n l s e,229,205,24
+Klaus Hans Jens Katharina Sabine Klaus Ulrike Brigitte Joachim Jens Ulrike Ulrike Ulrike Ulrike Ute Stefanie Anja Sabine Susanne Martina Anja Jörg Matthias Jan Jan,s s s a e s e e m s e e e e e e a e e a a g s n n,25,22~30,Output: s s s a e s e e m s e e e e e e a e e a a g s n n,232,205,27
+Stefan Kerstin Klaus Stefanie Hans Martina Anna Birgit Thomas Karin Anna Karin Thomas Joachim Hans Bettina Jens Joachim Brigitte Jörg Martina Rainer Jörg Manfred Karin Wolfgang Karin Sabine,n n s e s a a t s n a n s m s a s m e g a r g d n g n e,28,22~30,Output: n n s e s a a t s n a n s m s a s m e g a r g d n g n e,240,210,30
+Joachim Stefan Stefanie Thomas Jens Birgit Ute Markus Manfred Manfred Jürgen Bettina Martina Hans Birgit Ivonne Susanne Ivonne Heike Karin Martina Ivonne Markus Philipp Thomas Katharina Ulrike Joachim,m n e s s t e s d d n a a s t e e e e n a e s p s a e m,28,22~30,Output: m n e s s t e s d d n a a s t e e e e n a e s p s a e m,242,212,30
+Klaus Hans Wolfgang Susanne Thomas Manfred Bärbel Ute Thomas Hans Markus Martina Ulrike Heike Susanne Jörg Jutta Philipp Bettina Thomas Angelika Hans Thomas Jens Ulrike Jürgen,s s g e s d l e s s s a e e e g a p a s a s s s e n,26,22~30,,231,203,28
+Dirk Uwe Karin Stefan Sabine Anja Rainer Wolfgang Petra Matthias Martina Bärbel Petra Hans Bettina Bärbel Bärbel Hans Hans Jan Jan Karin,k e n n e a r g a s a l a s a l l s s n n n,22,22~30,,219,195,24
+Ulrike Sven Kerstin Karin Jan Klaus Sabine Susanne Thomas Jutta Klaus Stefanie Monika Brigitte Thomas Angelika Matthias Joachim Markus Martina Kerstin Thorsten Bettina Monika Brigitte,e n n n n s e e s a s e a e s a s m s a n n a a e,25,22~30,Output: e n n n n s e e s a s e a e s a s m s a n a a e e,232,205,27
+Susanne Markus Anja Bettina Manfred Anja Sven Klaus Anna Monika Katharina Wolfgang Heike Angelika Stefan Joachim Jörg Jan Matthias Jan Jürgen Jutta Ralph,e s a a d a n s a a a g e a n m g n s n n a h,23,22~30,Output: e s a a d a n s a a a g e a n m g n s n n a,225,201,24
+Matthias Martina Markus Markus Monika Ulrike Ralph Birgit Brigitte Ute Susanne Philipp Angelika Kerstin Joachim Hans Thomas Sven Bettina Markus Thomas Dirk Karin Anja Ute Uwe Monika Matthias,s a s s a e h t e e e p a n m s s n a s s k n a e e a s,28,22~30,Output: s a s s a e h t e e e p a n m s s n a s s k n a e e a s,236,206,30
+Manfred Stefan Thorsten Jens Dirk Markus Jörg Sabine Katharina Wolfgang Sven Anna Angelika Wolfgang Philipp Birgit Jürgen Jörg Stefanie Petra Monika Dirk Kerstin Philipp Joachim Manfred Petra Uwe,d n n s k s g e a g n a a g p t n g e a a k n p m d a e,28,22~30,Output: d n n s k s g e a g n a a g t n g e a a k n m d a e,237,209,28
+Jörg Susanne Ralph Jürgen Ralph Jan Jens Manfred Sabine Wolfgang Hans Thomas Wolfgang Stefanie Jens Angelika Dirk Rainer Susanne Sabine Martina Hans Jörg Martina Sabine,g e h n h n s d e g s s g e s a k r e e a s g a e,25,22~30,Output: g e h n h n s d e g s s g e s a k r e e a s g a e,229,202,27
+Kerstin Dirk Brigitte Jutta Monika Bärbel Bärbel Jürgen Dirk Uwe Manfred Ivonne Anja Bernd Brigitte Petra Susanne Katharina Stefanie Karin Angelika Bettina Susanne Rainer Markus Martina Bettina,n k e a a l l n k e d e a d e a e a e n a a e r s a a,27,22~30,Output: n k e a a l l n k e d e a d e a e a e n a e a e r s a a,246,216,30
+Katharina Ute Dirk Rainer Uwe Klaus Susanne Markus Bettina Klaus Dirk Bärbel Jürgen Monika Angelika Uwe Jörg Stefanie Jutta Rainer Jürgen Uwe Thorsten Jörg Martina Stefanie Monika,a e k r e s e s a s k l n a a e g e a r n e n g a e a,27,22~30,Output: a e k r e s e s a s k l n a a e a a r n e n n g a e a,245,216,29
+Bernd Heike Sabine Karin Hans Thorsten Ute Jens Heike Susanne Ralph Manfred Jan Ralph Uwe Joachim Manfred Thomas Wolfgang Jörg Jan Thorsten Monika Bärbel Anna Sven Jörg,d e e n s n e s e e h d n h e m d s g g n n a l a n g,27,22~30,Output: d e e n s n e s e e h d n h e m d s g n n a l a n n g,237,208,29
+Thomas Sabine Martina Anja Jürgen Klaus Susanne Wolfgang Hans Ulrike Klaus Ralph Jutta Bernd Susanne Stefan Martina Jens Birgit Uwe Heike Kerstin Bernd Wolfgang Monika,s e a a n s e g s e s h a d e n a s t e e n d g a,25,22~30,Output: s e a a n s e g s e s h a d e n a s t e e n d g a,229,202,27
+Markus Jutta Ralph Katharina Jutta Heike Brigitte Wolfgang Anja Jürgen Jan Birgit Susanne Anja Ivonne Kerstin Birgit Ivonne Sven Philipp Joachim Karin Markus,s a h a a e e g a n n t e a e n t e n p m n s,23,22~30,Output: s a h a a e e g a n n t e a e n t e n p m n s,229,204,25
+Angelika Kerstin Bärbel Kerstin Uwe Thomas Jürgen Kerstin Sven Jürgen Ivonne Jörg Anja Bettina Thorsten Manfred Philipp Matthias Stefanie Matthias Uwe Monika Karin Birgit Birgit Sabine,a n l n e s n n n n e g a a n d p s e s e a n t t e,26,22~30,Output: a n l n e s n n n n e g a a n d p s e s e a n t t e e,242,213,29
+Wolfgang Martina Anja Wolfgang Ralph Stefanie Jan Markus Anna Uwe Martina Jörg Bärbel Markus Angelika Bärbel Stefanie Ulrike Angelika Dirk Kerstin Rainer Ulrike Jutta Joachim Uwe Uwe,g a a g h e n s a e a g l s a l e e a k n r e a m e e,27,22~30,Output: g a a g h e n s a e a g l s a e e a k n r e a m e e,237,209,28
+Ulrike Jörg Anna Jan Ivonne Anja Jürgen Karin Petra Monika Birgit Manfred Jan Philipp Rainer Susanne Jan Thomas Susanne Markus Jürgen Jens,e g a n e a n n a a t d n p r e n s e s n s,22,22~30,Output: e g a n e a n n a a t d n p r e n s e s e n s,224,199,25
+Matthias Uwe Jutta Stefan Sven Anna Ute Rainer Hans Jörg Jutta Manfred Philipp Susanne Anja Klaus Jan Petra Hans Anna Markus Stefan,s e a n n a e r s g a d p e a s n a s a s n,22,22~30,Output: s e a n n a e r s g a d p e a s n a s a n n s n,218,192,26
+Hans Jörg Jörg Angelika Matthias Anna Anja Ulrike Stefan Wolfgang Hans Ivonne Bettina Stefanie Angelika Birgit Anja Susanne Thomas Thorsten Ivonne Manfred Susanne Anna Stefanie Stefan Jens,s g g a s a a e n g s e a e a t a e s n e d e a e n s,27,22~30,Output: s g g a s a a e n g s e a e a t a e s s n e d e a e n s,235,205,30
+Sven Ute Bernd Thomas Petra Ute Ivonne Ivonne Joachim Hans Philipp Bärbel Jörg Hans Brigitte Bernd Petra Anna Katharina Heike Angelika Joachim Anna Katharina Ivonne Sven,n e d s a e e e m s p l g s e d a a a e a m a a e n,26,22~30,Output: n e d s a e e e m s p l g s e d a a a e a m a a e n,238,210,28
+Bernd Wolfgang Jürgen Kerstin Martina Bernd Hans Kerstin Rainer Karin Angelika Kerstin Ulrike Rainer Ute Stefanie Jens Angelika Birgit Anna Karin Anna Uwe Ivonne,d g n n a d s n r n a n e r e e s a t a n a e e,24,22~30,Output: d g n n a d s n r n a n e r e e s a t a n a e e,230,204,26
+Anja Monika Ralph Brigitte Anna Jens Stefanie Joachim Jens Angelika Philipp Klaus Bärbel Klaus Brigitte Anja Jörg Thomas Ulrike Ute Joachim Anna Manfred Ivonne Markus Sven Anja,a a h e a s e m s a p s l s e a g s e e m a d e s n a,27,22~30,Output: a a h e a s e m s a p s l s e a g s e e m a d e s n a,238,209,29
+Angelika Markus Kerstin Stefanie Markus Jutta Anja Ulrike Katharina Anna Uwe Thomas Thomas Stefanie Jan Birgit Markus Ralph Petra Thorsten Sabine Manfred,a s n e s a a e a a e s s e n t s h a n e d,22,22~30,Output: a s n e s a a e a a e s s e n t s h e d,217,195,22
+Joachim Markus Ute Karin Anna Philipp Ulrike Stefanie Thorsten Ralph Sven Bernd Jens Susanne Bernd Jens Wolfgang Ralph Uwe Brigitte Joachim Bettina Martina,m s e n a p e e n h n d s e d s g h e e m a a,23,22~30,Output: m s e n a p e e n h n d s e d s g h e e m n a,225,200,25
+Jürgen Ivonne Ivonne Bernd Anna Hans Manfred Petra Klaus Bernd Anna Dirk Dirk Anna Joachim Dirk Hans Thorsten Dirk Brigitte Kerstin Philipp Wolfgang Manfred Wolfgang,n e e d a s d a s d a k k a m k s n k e n p g d g,25,22~30,Output: n e e d a s d a s d a k k a m k s n p g d g,223,199,24
+Jörg Bettina Uwe Heike Bernd Matthias Ulrike Rainer Bärbel Ulrike Karin Bärbel Ralph Klaus Angelika Stefan Heike Rainer Brigitte Martina Jutta Ulrike Uwe Ivonne Stefan Hans Thorsten Uwe Manfred,g a e e d s e r l e n l h s a n e r e a a e e e n s n e d,29,22~30,Output: g a e e d s e r l e n l h s a n e r e a a a e e n n s e d,246,215,31
+Sven Jürgen Sven Kerstin Susanne Klaus Jan Jan Bernd Rainer Brigitte Jutta Ralph Martina Manfred Dirk Ulrike Matthias Uwe Jürgen Uwe Karin,n n n n e s n n d r e a h a d k e s e n e n,22,22~30,Output: n n n n e s n n d r e a h a d k e s e n e n,226,202,24
+Bettina Martina Dirk Kerstin Sven Stefan Joachim Ivonne Wolfgang Katharina Brigitte Rainer Angelika Birgit Susanne Bernd Uwe Uwe Bärbel Angelika Dirk Kerstin Joachim Ivonne,a a k n n n m e g a e r a t e d e e l a k n m e,24,22~30,Output: a a k n n n m e g a e r a t e e d e e l a k n m e,235,208,27
+Sven Jörg Ute Jutta Brigitte Monika Martina Stefanie Matthias Stefan Uwe Jens Brigitte Thorsten Rainer Dirk Monika Philipp Ivonne Martina Bärbel Joachim Dirk Angelika Manfred Philipp,n g e a e a a e s n e s e n r k a p e a l m k a d p,26,22~30,Output: n g e a e a a e s n e s e n r k a p e a l m k a d p,237,209,28
+Bernd Ralph Jörg Anja Sabine Jens Philipp Thorsten Angelika Klaus Katharina Jan Stefanie Stefanie Petra Sabine Bärbel Jutta Sabine Monika Rainer Jan Karin Katharina Ivonne,d h g a e s p n a s a n e e a e l a e a r n n a e,25,22~30,Output: d h g a e s p n a s a n e e a e l a e a r n n a a e,234,206,28
+Manfred Stefanie Petra Ute Stefan Ute Anja Ivonne Monika Ralph Ralph Ulrike Kerstin Ralph Matthias Manfred Manfred Jan Markus Sven Petra Matthias,d e a e n e a e a h h e n h s d d n s n a s,22,22~30,Output: d e a e n e a e a h h e n h s d d n s n a s,217,193,24
+Katharina Stefanie Jürgen Jutta Petra Stefanie Rainer Heike Jan Kerstin Hans Joachim Wolfgang Markus Jürgen Sabine Jürgen Birgit Rainer Jutta Sabine Ulrike Bettina Bärbel Uwe,a e n a a e r e n n s m g s n e n t r a e e a l e,25,22~30,Output: a e n a a e r e n n s m g s n e n t r a e e e a e,240,213,27
+Monika Sven Brigitte Kerstin Thomas Matthias Stefan Ulrike Anja Dirk Jutta Sabine Anja Rainer Klaus Hans Sven Sabine Manfred Jutta Thomas Markus Sabine Anna Stefanie Sabine Petra Birgit Sven,a n e n s s n e a k a e a r s s n e d a s s e a e e a t n,29,22~30,Output: a n e n s s n e a k a e a r s s n e d a s s e a e e a a t n,240,208,32
+Matthias Jutta Brigitte Katharina Thorsten Jutta Thorsten Susanne Thorsten Jens Anja,s a e a n a n e n s a,11,8~15,Output: s a e a n a n e n s a,194,181,13
+Sabine Angelika Ivonne Petra Karin Bärbel Jan Thorsten,e a e a n l n n,8,8~15,Output: e a e a n l n n,184,174,10
+Thorsten Thorsten Anja Jörg Markus Katharina Markus Ivonne Klaus Angelika,n n a g s a s e s a,10,8~15,,190,178,12
+Ralph Wolfgang Karin Manfred Sven Kerstin Manfred Manfred Jens Monika Thomas Stefanie Angelika Dirk,h g n d n n d d s a s e a k,14,8~15,Output: h g n d n n d d s a s e a k,198,182,16
+Ralph Birgit Karin Klaus Ralph Ute Anja Heike Katharina Heike Stefan Kerstin Ivonne,h t n s h e a e a e n n e,13,8~15,Output: h t n s h e a e a e n n e,197,182,15
+Monika Rainer Jan Brigitte Ivonne Ute Philipp Philipp Heike Uwe,a r n e e e p p e e,10,8~15,Output: a r n e e e p p e e,189,177,12
+Jürgen Dirk Matthias Monika Joachim Kerstin Anna Katharina Jörg Jörg Jens,n k s a m n a a g g s,11,8~15,Output: n k s a m n a a g g s,196,183,13
+Manfred Klaus Rainer Jürgen Uwe Jan Petra Sabine Jörg Ulrike Kerstin Jan Anna,d s r n e n a e g e n n a,13,8~15,Output: d s r n e n a e g e n n a,198,183,15
+Anna Monika Thomas Petra Jutta Jürgen Kerstin Bernd Bärbel Susanne Jan,a a s a a n n d l e n,11,8~15,Output: a a s a a n n d l e n,193,180,13
+Ralph Matthias Birgit Monika Bernd Joachim Stefanie Anna Matthias,h s t a d m e a s,9,8~15,Output: h s t a d m e a s,185,174,11
+Thomas Ute Angelika Bettina Angelika Ivonne Kerstin Sabine Brigitte Bettina Joachim Brigitte,s e a a a e n e e a m e,12,8~15,Output: s e a a a e n e e a m e,199,185,14
+Jan Dirk Philipp Manfred Petra Katharina Bettina Jörg Jörg Brigitte Hans Wolfgang,n k p d a a a g g e s g,12,8~15,Output: n k p d a a e g g e s g,195,181,14
+Ralph Rainer Matthias Ulrike Susanne Jens Angelika Birgit Stefanie,h r s e e s a t e,9,8~15,Output: h r s e e s a t e,185,174,11
+Joachim Klaus Monika Markus Philipp Anna Klaus Klaus Anna Anna Kerstin Monika Sabine,m s a s p a s s a a n a e,13,8~15,Output: m s a s p a s s a a n a e,193,178,15
+Ute Stefan Sabine Jan Bärbel Dirk Bernd Stefanie Birgit Angelika Jürgen,e n e n l k d e t a n,11,8~15,Output: e n e n l k d e t a n,194,181,13
+Jörg Stefan Heike Philipp Hans Bärbel Stefanie Stefan Manfred Uwe Birgit,g n e p s l e n d e t,11,8~15,Output: g n e p s l e n d e t,192,179,13
+Monika Philipp Ivonne Jörg Birgit Jens Manfred Uwe Bernd Jörg Ulrike Petra,a p e g t s d e d g e a,12,8~15,Output: a p e g t s d e d g e a,196,182,14
+Anja Hans Stefan Sabine Bärbel Thomas Rainer Jutta Uwe,a s n e l s r a e,9,8~15,Output: a s n e l s r a e,186,175,11
+Bernd Bärbel Dirk Philipp Stefan Jutta Jürgen Ralph,d l k p n a n h,8,8~15,Output: d l k p n a n h,184,174,10
+Uwe Brigitte Uwe Martina Jutta Brigitte Anja Stefanie Dirk Dirk Uwe Thorsten Karin,e e e a a e a e k k e n n,13,8~15,Output: e e e a a e a e k k e n n,200,185,15
+Markus Anja Jürgen Markus Rainer Wolfgang Ulrike Stefan Petra Jan Dirk Ralph Thomas Manfred,s a n s r g e n a n k h s d,14,8~15,Output: s a n s r g e n a n k h s d,196,180,16
+Markus Monika Manfred Jürgen Wolfgang Rainer Petra Stefanie Joachim,s a d n g r a e m,9,8~15,Output: s a d n g r a e m,188,177,11
+Sven Philipp Katharina Kerstin Anna Ute Dirk Heike Jutta Karin Bärbel Dirk Sven Sven,n p a n a e k e a n l k n n,14,8~15,Output: n p a n a e k e a n l k n n,201,185,16
+Anja Martina Ivonne Joachim Martina Sabine Birgit Thomas Jutta Ute Sven Rainer Bärbel Klaus,a a e m a e t s a e n r l s,14,8~15,Output: a a e m a e t s a e n r l s,203,187,16
+Philipp Susanne Bettina Bärbel Birgit Birgit Rainer Thomas Karin Joachim Uwe,p e a l t t r s n m e,11,8~15,Output: p e a l t t r s n m e,194,181,13
+Jörg Jens Angelika Anja Susanne Monika Birgit Jutta Thomas Anja Philipp Uwe Philipp Matthias,g s a a e a t a s a p e p s,14,8~15,Output: g s a a e a t a s a p e p s,199,183,16
+Klaus Monika Stefan Sabine Manfred Bernd Uwe Matthias,s a n e d d e s,8,8~15,Output: s a n e d d e s,182,172,10
+Jan Susanne Wolfgang Katharina Sabine Birgit Philipp Klaus Anna Petra Dirk Jens Anja,n e g a e t p s a a k s a,13,8~15,,193,178,15
+Manfred Anja Uwe Thorsten Markus Thorsten Monika Matthias Jan Karin,d a e n s n a s n n,10,8~15,Output: d a e n s n a s n n,188,176,12
+Philipp Stefan Brigitte Karin Thorsten Joachim Bernd Wolfgang Susanne Matthias Jürgen Philipp,p n e n n m d g e s n p,12,8~15,Output: p n e n n m d g e s n p,196,182,14
+Bärbel Jens Dirk Monika Bettina Kerstin Katharina Matthias Markus Jutta Dirk Anja Brigitte,l s k a a n a s s a k a e,13,8~15,Output: l s k a a n a s s a k a e,198,183,15
+Bettina Klaus Stefan Joachim Hans Angelika Ivonne Uwe,a s n m s a e e,8,8~15,Output: a s n m s a e e,183,173,10
+Thomas Sven Angelika Thomas Sven Joachim Brigitte Thomas Wolfgang,s n a s n m e s g,9,8~15,Output: s n a s n m e s g,186,175,11
+Heike Stefanie Kerstin Heike Petra Jörg Hans Anja,e e n e a g s a,8,8~15,Output: e e n e a g s a,184,174,10
+Birgit Stefanie Thomas Klaus Heike Ulrike Anna Ivonne Philipp Wolfgang Stefan,t e s s e e a e p g n,11,8~15,Output: t e s s e e a e p g n,188,175,13
+Bettina Joachim Thomas Anja Sven Ulrike Uwe Katharina Anja Ute Susanne Brigitte Jan Ute,a m s a n e e a a e e e n e,14,8~15,Output: a m s a n e e a a e e e n e,204,188,16
+Karin Dirk Dirk Stefanie Wolfgang Markus Sabine Joachim Heike Sven Angelika Klaus,n k k e g s e m e n a s,12,8~15,Output: n k k e g s e m e n a s,193,179,14
+Matthias Markus Stefanie Matthias Ivonne Jutta Sabine Ulrike Ralph Anja Stefan Sven Karin Angelika,s s e s e a e e h a n n n a,14,8~15,Output: s s e s e a e e h a n n n a,198,182,16
+Bärbel Anna Jutta Katharina Wolfgang Klaus Hans Markus Jörg Birgit Philipp,l a a a g s s s g t p,11,8~15,Output: l a a a g s s s g t p,191,178,13
+Heike Monika Markus Thomas Monika Bettina Anna Katharina Kerstin Ivonne Anja Monika Bettina Sven,e a s s a a a a n e a a a n,14,8~15,Output: e a s s a a a a n e a a a n n,202,185,17
+Manfred Ulrike Sabine Thorsten Katharina Kerstin Angelika Katharina Jan Hans,d e e n a n a a n s,10,8~15,Output: d e e n a n a a n s,191,179,12
+Jan Wolfgang Joachim Philipp Kerstin Hans Markus Rainer Karin Jörg Sven Sven,n g m p n s s r n g n n,12,8~15,Output: n g m p n s s r n g n n,194,180,14
+Sabine Bärbel Kerstin Stefan Sabine Rainer Bernd Hans Heike Susanne Jutta Jörg Angelika Heike,e l n n e r d s e e a g a e,14,8~15,Output: e l n n e r d s e e a g a e,203,187,16
+Ulrike Bärbel Thomas Philipp Hans Thorsten Bernd Susanne Sven Bettina Angelika Brigitte Anna,e l s p s n d e n a a e a,13,8~15,Output: e l s p s n d e n a a e a,198,183,15
+Bernd Hans Stefanie Hans Ivonne Ivonne Philipp Dirk Monika Rainer Susanne Jens,d s e s e e p k a r e s,12,8~15,Output: d s e s e e p k a r e s,192,178,14
+Klaus Philipp Hans Matthias Bernd Bernd Joachim Rainer Ivonne Susanne Karin,s p s s d d m r e e n,11,8~15,Output: s p s s d d m r e e n,191,178,13
+Bernd Birgit Monika Klaus Susanne Thomas Thomas Monika Rainer Markus Bärbel Anna Manfred,d t a s e s s a r s l a d,13,8~15,Output: d t a s e s s a r s l a d,196,181,15
+Stefanie Sabine Bärbel Stefanie Thomas Joachim Anna Bärbel Heike Bettina Philipp,e e l e s m a l e a p,11,8~15,Output: e e l e s m a l e a p,194,181,13
+Ralph Ute Jörg Ralph Joachim Stefan Bernd Hans Jutta,h e g h m n d s a,9,8~15,Output: h e g h m n d s a,186,175,11
+Thorsten Ute Uwe Ulrike Monika Thomas Joachim Ute Hans Jörg,n e e e a s m e s g,10,8~15,Output: n e e e a s m e s g,191,179,12
+Jutta Ulrike Philipp Thorsten Karin Petra Manfred Manfred Matthias Jutta Katharina Manfred Susanne,a e p n n a d d s a a d e,13,8~15,Output: a e p n n a d d s a a d e,198,183,15
+Katharina Birgit Ivonne Jörg Dirk Martina Anna Bärbel Ivonne Bernd Uwe Klaus Uwe,a t e g k a a l e d e s e,13,8~15,Output: a t e g k a a e e d e s e,200,185,15
+Klaus Martina Klaus Joachim Hans Katharina Monika Stefan Bärbel Bernd Klaus,s a s m s a a n l d s,11,8~15,Output: s a s m s a a n l d s,192,179,13
+Thomas Bärbel Thorsten Markus Bärbel Thomas Dirk Ivonne,s l n s l s k e,8,8~15,Output: s l n s l s k e,183,173,10
+Katharina Susanne Ralph Martina Klaus Bärbel Jörg Bärbel Klaus,a e h a s l g l s,9,8~15,Output: a e h a s l g l s,189,178,11
+Ulrike Angelika Jan Bärbel Anna Ulrike Jürgen Jens Ulrike,e a n l a e n s e,9,8~15,Output: e a n l a e n s e,188,177,11
+Ute Heike Anna Klaus Susanne Anja Angelika Bettina Brigitte Klaus Bärbel Stefan,e e a s e a a a e s l n,12,8~15,Output: e e a s e a a a e s l n,195,181,14
+Angelika Bettina Sven Matthias Katharina Kerstin Brigitte Markus Bernd Karin,a a n s a n e s d n,10,8~15,Output: a a n s a n e s d n,191,179,12
+Ute Jutta Ralph Rainer Thomas Heike Joachim Susanne,e a h r s e m e,8,8~15,Output: e a h r s e m e,184,174,10
+Martina Katharina Jörg Kerstin Wolfgang Sven Kerstin Manfred Ivonne Sabine Rainer Martina Monika Dirk,a a g n g n n d e e r a a k,14,8~15,Output: a a g n g n n d e e r a a k,203,187,16
+Heike Jutta Stefanie Markus Jörg Monika Jörg Manfred Bärbel Dirk Bärbel Philipp,e a e s g a g d l k l p,12,8~15,Output: e a e s g a g d l k l p,198,184,14
+Thorsten Karin Heike Bärbel Manfred Ulrike Birgit Ute Bettina Birgit Kerstin,n n e l d e t e a t n,11,8~15,Output: n n e l d e t e a t n,195,182,13
+Bernd Manfred Ivonne Jürgen Susanne Anna Bettina Jürgen Sven,d d e n e a a n n,9,8~15,Output: d d e n e a a n n,191,180,11
+Sabine Hans Martina Thorsten Wolfgang Birgit Joachim Philipp Jens Markus Jürgen Thorsten Philipp Heike,e s a n g t m p s s n n p e,14,8~15,Output: e s a n g t m p s s n p e,199,184,15
+Kerstin Hans Klaus Katharina Bärbel Anja Katharina Petra Anja Heike Ulrike Sven Karin,n s s a l a a a a e e n n,13,8~15,Output: n s s a l a a a e e n n,199,185,14
+Anja Thomas Hans Heike Kerstin Philipp Wolfgang Katharina Thorsten Heike Bettina,a s s e n p g a n e a,11,8~15,Output: a s s e n p g a n e a,191,178,13
+Heike Philipp Birgit Brigitte Brigitte Klaus Stefanie Ivonne Wolfgang Jan Susanne Markus,e p t e e s e e g n e s,12,8~15,Output: e p t e e s e e g n e s,194,180,14
+Susanne Sven Birgit Heike Ulrike Anja Susanne Philipp Susanne Brigitte Katharina,e n t e e a e p e e a,11,8~15,Output: e n t e e a e p e e a,195,182,13
+Ralph Katharina Susanne Bettina Kerstin Manfred Stefan Jürgen Sabine Bärbel Jan,h a e a n d n n e l n,11,8~15,Output: h a e a n d n n e l n,195,182,13
+Hans Birgit Anna Karin Jutta Hans Hans Bernd Bärbel Monika Uwe Angelika,s t a n a s s d l a e a,12,8~15,Output: s t a n a s s d l a e a,194,180,14
+Bärbel Martina Hans Jutta Kerstin Uwe Anna Brigitte,l a s a n e a e,8,8~15,Output: l a s a n e a e,185,175,10
+Anja Sven Dirk Uwe Jan Ivonne Thomas Martina Martina Rainer Joachim Bettina,a n k e n e s a a r m a,12,8~15,Output: a n k e n e s a a r m a,195,181,14
+Stefan Philipp Karin Rainer Rainer Stefanie Ulrike Brigitte Birgit Thorsten Jürgen Ivonne,n p n r r e e e t n n e,12,8~15,Output: n p n r r e e e t n n e,198,184,14
+Joachim Thomas Matthias Wolfgang Klaus Markus Uwe Thomas Bärbel Anja Jörg Jan Petra,m s s g s s e s l a g n a,13,8~15,Output: m s s g s s e s l a g n a,195,180,15
+Dirk Katharina Rainer Manfred Stefan Kerstin Rainer Philipp Jürgen,k a r d n n r p n,9,8~15,Output: k a r d n n r p n,188,177,11
